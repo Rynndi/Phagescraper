@@ -1,0 +1,1818 @@
+Phage	Plata (B1)	SilverChicken (F2)	Rearden (J)	Riverton (B1)	BarrowTuph (A1)	Bigchungi (A1)	EmiMonkey (F1)	Nekros (J)
+Phroglets (Singleton)	1.3	0.0	0.0	1.3	1.4	1.4	0.0	0.0
+
+Phage	Levia (A1)	Phlippers (A1)	Bobquesha (K4)	Brookers (F1)	Becksu (E)	Phalaborwa (D1)	LionsBait (A2)	Stuck (I2)	Lebo14 (K4)
+Phroglets (Singleton)	1.4	1.4	0.0	0.0	0.0	0.0	1.4	0.0	0.0
+
+Phage	Teejan (K1)	Violac (F1)	DeejaClivia (C1)	EnzoK (A1)	Bhagsy (P1)	Prinashe11 (A5)	Gratitude (A2)	Nette (T)	Terrific (A2)
+Phroglets (Singleton)	0.0	0.0	0.0	1.4	0.0	1.4	1.4	0.0	1.3
+
+Phage	Bigflo (A3)	Olivio (B3)	Lowa (A3)	Etoile (P1)	KingJulian (F1)	Doughnut (K2)	Shaboozey (J)	PhineBark (A1)	Corium (F1)
+Phroglets (Singleton)	1.4	1.3	1.4	0.0	0.0	0.0	0.0	1.4	0.0
+
+Phage	Polo2Bam (F1)	NewHope4 (F1)	TooFast2Furius (B1)	PhlipPhlop (F1)	Marco3 (A1)	Emmaloid (F1)	FoghornLeghorn (E)	LunarLander (A1)	Slim (F1)
+Phroglets (Singleton)	0.0	0.0	1.3	0.0	1.4	0.0	0.0	1.4	0.0
+
+Phage	Razzleberry (JB)	RockScotty (AZ5)	Giorgio (AZ5)	Gumpizza (AZ5)	Sabourin (AZ5)	Stuu (AZ5)	Beaupre (AZ5)	Faiyaz (Y)	Tristan (A2)
+Phroglets (Singleton)	0.0	1.6	1.6	1.6	1.6	1.5	1.6	0.0	1.4
+
+Phage	Polyphemus (A6)	Mayonnaise (A4)	Lea83 (K3)	Tortoise12 (N)	Spiderbri (GK)	Cornbread (B1)	Bramble (EF)	HairyMan (EA10)	McSinger (A1)
+Phroglets (Singleton)	2.7	1.5	0.0	0.0	0.0	1.3	0.0	1.6	1.4
+
+Phage	Tchotchke (F1)	Jant (F1)	KleverKiS (M1)	Chipette (B1)	Cheesepuff (F1)	StormChicken (E)	KingPhillip3 (O)	Jella (EE)	Schism (FF)
+Phroglets (Singleton)	0.0	0.0	0.0	1.3	0.0	1.2	0.0	0.0	0.0
+
+Phage	LavAbarElk (DV)	OtsoOtso (AS2)	Anilorac (EA1)	Tongui (EF)	RosieMae (EA1)	SirBeauregard (B1)	Marleymoo (J)	Kosier (EK2)	Cygnet (AS2)
+Phroglets (Singleton)	0.0	0.0	1.6	0.0	1.6	1.3	0.0	1.7	0.0
+
+Phage	AksarBAT (DR)	ApoKipo (AL)	Subaru (AZ1)	Shenandoah (B3)	HerbBucket (AW)	MUWow (AY)	Donatella (FF)	LadyJasley (Singleton)	JellyBread (AY)
+Phroglets (Singleton)	1.4	0.0	1.5	1.3	1.4	0.0	0.0	34.2	0.0
+
+Phage	CheeseDanish (FE)	Applecrisp (K6)	PSirce (EA2)	MicyPS (EQ)	Violeta (GA)	Casablancas (ED2)	Thimble (E)	Causa (AI)	JimmyPG (EK2)
+Phroglets (Singleton)	0.0	0.0	1.6	1.3	0.0	0.0	0.0	1.1	1.7
+
+Phage	DanHam62 (AS3)	Panchaali (FC)	Babushka (AS3)	GoodLuckBabe (FF)	Sweetclover (JA)	PrinceCharming (B2)	Socotra (CT)	Solea (EB)	Milomuff (EB)
+Phroglets (Singleton)	0.0	2.0	0.0	0.0	0.0	1.4	1.5	1.5	1.5
+
+Phage	Mentos (EG)	TwoBits (EA5)	Iqorha (A1)	Primadonna (C1)	Fongie (C1)	Egi03 (DC1)	Stormer (DV)	Red305 (L3)	HeadMave (EE)
+Phroglets (Singleton)	1.3	1.6	1.4	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	Marlia (B3)	Wogge42 (O)	Guinevere (FF)	Chavito (K1)	Trufflozitus (DJ)	SoJulia (L2)	Talos (BS)	Spooks (BT)	Shuckle (BE1)
+Phroglets (Singleton)	1.3	0.0	0.0	0.0	0.0	0.0	1.1	1.5	0.0
+
+Phage	Garnacho (BS)	CallaLilly (K1)	Ellewin (FC)	Bimmel (BT)	TinaBug (G1)	Talon44 (DJ)	Warrior24 (A15)	Axiom (BD2)	Guzman (GA)
+Phroglets (Singleton)	1.1	0.0	1.0	1.4	0.0	0.0	2.7	0.0	0.0
+
+Phage	Jakelyne (GA)	DirtPie (EE)	Losacky (GA)	Zahlia (EE)	Carrillo (GA)	Akino08 (EB)	Symere (EA1)	Wrackline (GF)	MajinBuu (DJ)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	1.6	1.5	0.0
+
+Phage	Towmatter (DL)	FuegoCuervo (DE1)	FreakyGoo (M1)	ArchiDore (DW)	EGUnicorn (N)	Kolhan (B2)	Neighly (K3)	ElvisPhasley (B1)	Blondies (CT)
+Phroglets (Singleton)	2.2	0.0	0.0	0.0	0.0	1.4	0.0	1.3	1.5
+
+Phage	Mesmerelda (B1)	Raid (A1)	RustyBoy (AW)	Softsoap (EB)	Natasha (AW)	Lukepolites (Singleton)	AllBusiness (FF)	NoSwimming (FO)	ChickenTender (CT)
+Phroglets (Singleton)	1.3	1.4	2.8	1.5	2.8	0.0	0.0	0.0	1.6
+
+Phage	Shukran (AY)	Goodgraces (FD)	Crete (CS2)	GUPitcher (FJ)	Bowling (AM)	LucySwiss (AU1)	Myram (EE)	Atlantica (AS3)	BotCity (DN)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	PrairieDogTown (FO)	Julie (FF)	Sknot (A2)	Brushbloom (F1)	ViviJ (K5)	ForDig (B6)	Underpass (L2)	Aloeri (F1)	Destructrice (BF)
+Phroglets (Singleton)	0.0	0.0	1.3	0.0	0.0	1.3	0.0	0.0	0.0
+
+Phage	Kropertea (L4)	Forrestell (AP2)	Invectra (CZ4)	Bhageatrice (AY)	Rikishi (BE2)	StuartMinion (AS3)	Belieber (C1)	TinyTerror (B3)	GlutenPhree (C1)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.3	0.0
+
+Phage	Zodiariah (DW)	Glotell (AS3)	Nostromo (AO3)	Ollypop (AP2)	Kubulix (AP2)	Marsus (BE1)	Westy (BK1)	ReginaGlobina (FC)	AngelCake (B1)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.3
+
+Phage	Antrice (AS2)	Shrubaron (EC)	Bern (K1)	LilSmirk (B2)	LordBart (EF)	Madebyisha (EE)	TinyPebbles (A3)	Vitaenoii (CS4)	SirFrank (EC)
+Phroglets (Singleton)	0.0	0.0	0.0	1.4	0.0	0.0	1.4	0.0	0.0
+
+Phage	TriFive (L3)	ShawBrad (DN1)	Glubnar (B3)	SwainyDoc (B3)	Bavilard (CT)	Yucky (CT)	Scuba (CR5)	Poochiewood (L1)	Greenbelt (BN)
+Phroglets (Singleton)	0.0	0.0	1.3	1.3	1.5	1.5	0.0	0.0	0.0
+
+Phage	BaronJohn (EA5)	GoldDust (FL)	SVoro (C1)	Powelldog (AW)	Lishka (BC3)	Halloweekend (FF)	KSunshine22 (FC)	Skitty (FQ)	TicTac (EK1)
+Phroglets (Singleton)	1.6	0.0	0.0	2.7	0.0	0.0	1.0	0.0	0.0
+
+Phage	Grimmer (F1)	Bengal (EB)	Zebo (O)	AdaS (AY)	HollowPurple (ED2)	Nova53 (CG)	Wardwill (EA5)	GoldenEssence (FC)	Iridessa (B1)
+Phroglets (Singleton)	0.0	1.5	0.0	0.0	0.0	0.0	1.6	2.0	1.3
+
+Phage	Chalmers (B3)	Temprado (A6)	Jesabah (B1)	Ablatia (C1)	BlessJoy (A6)	Zhuangyuan (AS2)	Linayshia (EJ)	Glorp (EC)	Ball (Singleton)
+Phroglets (Singleton)	1.3	1.3	1.3	0.0	1.3	0.0	0.0	0.0	0.0
+
+Phage	Rita130 (B5)	Ichiang (FF)	IsHungry (FF)	ShyRosie (EK2)	Phanita (EA2)	Chlochlo (AU2)	Izel (M1)	GoongGoong (S)	PastaFagioli (EB)
+Phroglets (Singleton)	1.3	0.0	0.0	0.0	1.6	1.4	0.0	0.0	1.5
+
+Phage	Scotia (FO)	Vitus (FL)	Issa7 (ED2)	Koan (A4)	Zippen (AU3)	Seldom (FD)	Olympi (EJ)	DoRead (F1)	SenorClean (A4)
+Phroglets (Singleton)	0.0	0.0	0.0	1.4	1.4	0.0	0.0	0.0	1.4
+
+Phage	Kinny (AU6)	Gavriela (P1)	Jezreel (C1)	Circuit (FH)	Bouchard (AU2)	Acai (AU1)	Gandionco (FK)	Toad24 (AS1)	ElectricPheel (AN)
+Phroglets (Singleton)	1.4	0.0	0.0	0.0	1.4	0.0	1.0	0.0	0.0
+
+Phage	Rockabye (FC)	DogYard (AP2)	Windest (AY)	BlueShadow (AY)	Shaffner (AZ1)	Vopal (AY)	Boog (AW)	MaterMagnus (AY)	KendraB23 (AS1)
+Phroglets (Singleton)	1.0	0.0	0.0	0.0	1.6	0.0	2.7	0.0	0.0
+
+Phage	DillyDally (Singleton)	EmoNemo (DQ)	BetterYeti (DJ)	ChocoMunchkin (CT)	MakCheese (DW)	Citrus (DJ)	Moonflower (DB)	Gravel (AS1)	Demure (DJ)
+Phroglets (Singleton)	0.0	0.0	0.0	1.6	0.0	0.0	0.0	0.0	0.0
+
+Phage	Pelletreau (AS1)	IzzyPants24 (EE)	BabyMoney (DT)	Toneprano (DQ)	Amo99 (CP)	Westrich (AS1)	Dancer (DJ)	Worcestershire (CS2)	Pochacco (GK)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	FroggyToad (CZ2)	Starburst (CT)	Smelly (GK)	CanesSauce (CT)	Exploradora	Gwennie1 (B1)	Caspiboi (B1)	RedRaider (CR3)	ELee24 (EE)
+Phroglets (Singleton)	0.0	1.5	0.0	1.6	1.6	1.3	1.3	0.0	0.0
+
+Phage	Dodo (GD1)	Annapurna (EF)	CherryCola (DC1)	Khan1 (B1)	Vivum (F1)	Utopia (FE)	CupcakePrincess (EB)	Jabb (EB)	CookieDog (GA)
+Phroglets (Singleton)	1.0	0.0	0.0	1.3	0.0	3.0	1.5	1.5	0.0
+
+Phage	SilentWarrior (EF)	Artiphact (EF)	PhedwardCullen (EC)	PhigPhack (EB)	Phingu (GA)	RenegadeRaider (EA4)	PhillyJawn (GA)	Trackstar (EE)	MsUbiquitous (EB)
+Phroglets (Singleton)	0.0	0.0	0.0	1.5	0.0	1.7	0.0	0.0	1.5
+
+Phage	Chentzyk (B3)	Scissor2024 (EA11)	RazorC (DV)	JessellCookie (EK1)	MiamiPanther (EK1)	TownLake (EK1)	Astralis (DV)	Navi1117 (AU6)	November (K6)
+Phroglets (Singleton)	1.3	1.6	0.0	0.0	0.0	0.0	0.0	1.3	0.0
+
+Phage	FosterFrank (FA)	Tenney120 (AU6)	Biscute (AU6)	HotPotato (FA)	Alatato (FB)	BigDome (AO2)	Jankie (FP)	LadyAstra (AZ4)	Phroglets (Singleton)
+Phroglets (Singleton)	0.0	1.4	1.4	1.6	0.0	0.0	1.6	1.5	98.4
+
+Phage	Clipper (K1)	Pigu (FB)	Lethe (C1)	Altostratus (FS)	Nathan (B1)	Bibble12 (AS2)	Maruru (FG)	LeoJr (FC)	Sunshine23 (FG)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.0	0.0
+
+Phage	Rattail (AS3)	Chilliams (FC)	KevinMinion (AU6)	Audell (FR)	Yeshua (DR)	MacKat (K1)	HamCheese (AS3)	Tubberson (BC1)	Riptide (BE1)
+Phroglets (Singleton)	0.0	1.0	1.4	3.1	1.4	0.0	0.0	0.0	0.0
+
+Phage	RazzB (AP2)	CarisSwetlik (EA1)	HazuAndZazu (BI1)	Jingles (EA4)	KNG13 (FE)	WaddleDee (FC)	Beleetus (BS)	SwissCheezer (EK1)	Kihatsu (FF)
+Phroglets (Singleton)	0.0	1.6	0.0	1.7	0.0	1.0	1.1	0.0	0.0
+
+Phage	AmiCi24 (AS3)	Calvinny (A3)	Huxley (A4)	GMonster (A1)	FairyPath (E)	Kraw (K4)	Twigg (A5)	QuinnAvery (FF)	TrixiePhattel (AU6)
+Phroglets (Singleton)	0.0	1.4	1.5	1.4	0.0	0.0	1.4	0.0	1.4
+
+Phage	AnnabelLee (FR)	Colusalem (AS2)	Jerole (AS2)	TMaxx (FR)	Bedetta (AS2)	Bradman (A2)	DropBear (A3)	Marchesa (A3)	Quokka (A2)
+Phroglets (Singleton)	3.1	0.0	0.0	3.0	0.0	1.3	1.4	1.4	1.3
+
+Phage	MajorMajor (A2)	Travvers (A2)	Rowdy (A10)	Shapes (A10)	Kachowdy (A3)	McMater (K1)	DontArgue (A10)	DustyMartin (A10)	Dartin (K1)
+Phroglets (Singleton)	1.4	1.4	1.4	1.4	1.4	0.0	1.5	1.4	0.0
+
+Phage	Richo (K1)	Toro (A7)	FlyCatcher (A7)	Chiqui (A3)	BabyJohn (A3)	Mkhuseli (A1)	Kithara (Singleton)	Ponzi (Singleton)	Scheme (BE1)
+Phroglets (Singleton)	0.0	1.4	1.4	1.5	1.5	1.4	0.0	1.4	0.0
+
+Phage	Ashes (AZ5)	Gambol (AZ5)	SpecialK (AZ5)	Brave (JB)	Donkey (AZ5)	Sooty (AZ5)	Penne (JB)	Cappuccino (AZ5)	Yappy (Singleton)
+Phroglets (Singleton)	1.6	1.6	1.6	0.0	1.6	1.6	0.0	1.6	1.2
+
+Phage	Sunny (EC)	Merry (EC)	Vic9 (B2)	Phrampa (FC)	Transit (JC)	Mantle (JC)	SilverBell (B1)	MulchExplorer (F1)	Wendigo (G1)
+Phroglets (Singleton)	0.0	0.0	1.4	2.0	0.0	0.0	1.3	0.0	0.0
+
+Phage	Rosa24 (A4)	WalkingDead (EB)	Commonplace (JD)	Nonagon (JD)	CoveyB (DC1)	Frizzle (DA)	Kate33 (EB)	IndiRoo (EJ)	Lenoxika (FF)
+Phroglets (Singleton)	1.4	1.5	0.0	0.0	0.0	0.0	1.5	0.0	0.0
+
+Phage	Lenoshki (DQ)	Geeche (CQ1)	Phaila (AU6)	Twin (DQ)	NyleyClemson (AP2)	Carsonalex (CT)	Beted (DQ)	Camara (AS3)	Mysterium (AZ5)
+Phroglets (Singleton)	0.0	0.0	1.3	0.0	0.0	1.5	0.0	0.0	1.6
+
+Phage	Grotle (JB)	Root (Singleton)	CliffHanger (EB)	Prophecy (JB)	Fairywren (JB)	Trapezoid (JB)	Squircle (EB)	Barebow (Singleton)	Kalimba (AZ5)
+Phroglets (Singleton)	0.0	0.0	1.5	0.0	0.0	0.0	1.6	0.0	1.6
+
+Phage	Elener (Singleton)	Mimi16 (JB)	Teagster (EB)	QueenPie (B4)	Shrew (Singleton)	Yotsuba (JA)	JoyLin (JA)	Daddyjeff (JA)	Sunfish (Singleton)
+Phroglets (Singleton)	0.0	0.0	1.5	1.4	1.2	0.0	0.0	0.0	1.2
+
+Phage	Pippin15 (JA)	Fanaw (B4)	GinPorsche (B4)	BourbonZero (L3)	Jiawan (A9)	IMpilo (F1)	Torres (K1)	Inyanga (A1)	SpicyFrank (AY)
+Phroglets (Singleton)	0.0	1.4	1.3	0.0	1.3	0.0	0.0	1.4	0.0
+
+Phage	Quantum (BM)	Hanako (N)	KayMoney (FA)	Vagabond (O)	Lawnathon (AY)	CocoCinnamon (FO)	ThayneTheZag (AY)	AzulaCat (G1)	EverythinBagel (EG)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.3
+
+Phage	Antihero (B4)	Sheng711 (L4)	PYPDinur (L4)	FrankDeliGuy (EG)	MorillMayhem (EG)	Quby (L4)	Rinkes (B9)	Domi (C1)	AuntGwenStacy (Y)
+Phroglets (Singleton)	1.3	0.0	0.0	1.3	1.3	0.0	1.4	0.0	0.0
+
+Phage	Kaine (BD3)	BobRoss2024 (DR)	Mysticmoon (DJ)	KingstonB (CP)	RanchParmCat (CT)	JulesRay (DJ)	NoPickles (DJ)	MintFritos (DQ)	ShaggyRogers (DJ)
+Phroglets (Singleton)	0.0	1.4	0.0	0.0	1.5	0.0	0.0	0.0	0.0
+
+Phage	Pavo (BD3)	Speedwell (BD3)	Jollymon (CP)	CinnamonToast (CS2)	Gusicorn (DJ)	Coldpizza (DR)	Arataki (DJ)	ColdSoup (CP)	Lilleskat (A9)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	1.4	0.0	0.0	1.4
+
+Phage	Demodog (C1)	Maliketh (G1)	Hally898 (B4)	LiyuLake (L3)	DHan (L2)	EdogawaKiddo (A9)	Kinmap (A21)	Hanray (A9)	AddiRose (JA)
+Phroglets (Singleton)	0.0	0.0	1.3	0.0	0.0	1.3	1.3	1.3	0.0
+
+Phage	Eevee (JA)	Tainan (C1)	Soap141 (L2)	Nehemiah (B5)	Toron (F6)	DanBing (L2)	Sunhee (A14)	Xincheng (B4)	KirDoubleO7 (L3)
+Phroglets (Singleton)	0.0	0.0	0.0	1.3	0.0	0.0	1.3	1.4	0.0
+
+Phage	BrainDrainer (L4)	Shenyu (B5)	Onglai (A9)	TingHuaYa (K1)	Sarshaun (L2)	JigglyPuff (C1)	Epah (B4)	Lambano (B4)	Sachima (A9)
+Phroglets (Singleton)	0.0	1.3	1.3	0.0	0.0	0.0	1.3	1.3	1.4
+
+Phage	ProMouse (A1)	KarasumaRum (B5)	RyeScarlet (A9)	FarmResident (L4)	Douzhi (L4)	Holex (A9)	Ahwei (B4)	Squall (JB)	Ellison17 (JB)
+Phroglets (Singleton)	1.4	1.4	1.3	0.0	0.0	1.3	1.3	0.0	0.0
+
+Phage	Momos (JB)	Mima20 (DV)	Jamemuya19 (DV)	Alephilan (DV)	Shayna (EB)	Halsey (AZ5)	SunnyD (EB)	Statler (EG)	Olliecat (EB)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	1.5	1.6	1.5	1.3	1.6
+
+Phage	FeliMaine (S)	Blackdragon (C1)	P3MA (Singleton)	Sandaddy (A1)	BugsBunny (E)	Sorpresa (A1)	Fastidio (F1)	Lilbunny (A6)	Gonephishing (J)
+Phroglets (Singleton)	0.0	0.0	0.0	1.4	0.0	1.4	0.0	1.3	0.0
+
+Phage	Palpatine (E)	Navo (BE1)	WhereRU (BE1)	Policronamos (E)	BluerMoon (DJ)	EvenBluerMoon (FO)	Marchy (A1)	Bagrid (J)	Jiraiya (B1)
+Phroglets (Singleton)	0.0	0.0	0.0	1.2	0.0	0.0	1.4	0.0	1.3
+
+Phage	ShortQueendom (A1)	Thunderbird (B1)	Payneful (A1)	Hami1 (A1)	Halldule (C1)	Dusty (CQ1)	Oofda (A15)	Gwilliam (B1)	Serenabean (JA)
+Phroglets (Singleton)	1.4	1.3	1.4	1.4	0.0	0.0	1.3	1.3	0.0
+
+Phage	Thatch (JC)	Buldak (EB)	Bugatti (A3)	Moss (AZ5)	Sanya (A1)	Weirdo19 (AH)	Abscondus (CQ1)	Avian (DV)	ModicumRichard (DZ)
+Phroglets (Singleton)	0.0	1.6	1.4	1.6	1.4	0.0	0.0	0.0	1.1
+
+Phage	HippoPololi (CT)	LemonPepper (EE)	CookieBear (AY)	BigBoyz (GH)	Dashyla (EK1)	Larnav (BE1)	Francesca (CG)	Dorin (CG)	CoffeeBean (CR)
+Phroglets (Singleton)	1.6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	Rideau (BF)	BlueOtter (BE1)	Emaanora (BD1)	Elmer (BE2)	Loofah (BD2)	HangryHippo (BE1)	Spocter (BQ)	Jollison (BE2)	Wyvern (GJ)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	Isperia (GJ)	Conan (BD3)	ElGato (BD3)	Zabiza (K1)	Gabbspett (EE)	TinyTimmy (A11)	Prager (D1)	StellaBean (E)	EZMoney23 (A2)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	1.3	0.0	1.2	1.4
+
+Phage	Coletti (B1)	Candra (A6)	Turab (AZ1)	Snakehole (EF)	SaturnRing (A3)	SlippinJimmy (B3)	Pucara (FA)	Kari (P1)	Ben11 (B3)
+Phroglets (Singleton)	1.3	1.3	1.6	0.0	1.4	1.3	0.0	0.0	1.3
+
+Phage	DunneganBoMo (FC)	HubbaBubba (CR4)	Scitech (N)	KingKamren (EK)	LordLeafolot (C1)	Chevrolet (F1)	Teech (CS4)	Blarby (F)	Chickadee (DE3)
+Phroglets (Singleton)	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	Cayde6 (EE)	Koduck (A2)	Landor (A2)	WeiHuaDA (A2)	Puissant (H1)	Ellson (L3)	JaguarMi (B4)	Hafay (L2)	Gremlin23 (BF)
+Phroglets (Singleton)	0.0	1.4	1.4	1.4	0.0	0.0	1.4	0.0	0.0
+
+Phage	SeresaTree (BK1)	Regigigas (BI4)	FromIndy (BI4)	Zareef (CT)	Stank (E)	Claus (L2)	Hermia (A1)	LunaStella (F4)	Stink (A4)
+Phroglets (Singleton)	0.0	0.0	0.0	1.5	1.2	0.0	1.4	0.0	1.4
+
+Phage	Saronaya (DE1)	LilBib (A1)	Pharb (K3)	QTRlifeCrisis (A1)	Applejack (A1)	Pawn (A3)	Insomnia (A11)	Espresso (A1)	Vidya (P1)
+Phroglets (Singleton)	0.0	1.4	0.0	1.4	1.4	1.4	1.3	1.4	0.0
+
+Phage	Helmet (A6)	Marker (F1)	Gustavo (DE1)	Garak (A6)	Chute (B1)	Giroux (A3)	Wisp (CV)	DonkeyMan (DY)	Heinz (DY)
+Phroglets (Singleton)	1.3	0.0	0.0	1.3	1.3	1.4	0.0	0.0	0.0
+
+Phage	Coriander (DB)	Damp (CS3)	HankSprout (EA1)	Madraxi (CF)	Tonitrus (Singleton)	Petersenfast (A11)	Onika (EC)	Astartes (EK2)	Byron23 (EA1)
+Phroglets (Singleton)	0.0	0.0	1.6	1.3	0.0	1.4	0.0	1.7	1.6
+
+Phage	Odette (J)	Khuang (FS)	DocMcStuffins (F1)	Madvan (DJ)	SantasSleigh (EE)	Bodhi17 (EE)	BouleyBill (EA4)	Carostasia (EA10)	FortCran (DJ)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	1.7	1.6	0.0
+
+Phage	Captrips (DJ)	Daikon (E)	Lesiram (GF)	Puddles3 (EE)	Journey (N)	Deb65 (F1)	Miskis (CQ1)	RiverRaider (DE1)	CherryTomatoes (DO)
+Phroglets (Singleton)	0.0	1.2	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	Hamood (DI)	Swim (FD)	ChuckDuck (FA)	Juno112 (AS3)	KHumphrey (AS3)	GiJojo (BS)	GoblinVoyage (BI2)	BlackSpider (FN)	Squibbles (CS2)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	1.1	0.0	0.0	0.0
+
+Phage	SirJeffery (B5)	BillyTP (AY)	BenoitCattle (CS2)	RedBaron (CT)	MAnor (CT)	Miryou (K5)	Megamind20 (B1)	Pace1224 (G2)	Melville (N)
+Phroglets (Singleton)	1.4	0.0	0.0	1.5	1.5	0.0	1.3	0.0	0.0
+
+Phage	Tycho (DE1)	Jerbirus (EA1)	Hyzer (CZ1)	Fazel (DJ)	Bush (GA)	Crumble (F1)	UBSmoodge (DQ)	Eddiemania (DJ)	Fulton (EA5)
+Phroglets (Singleton)	0.0	1.6	0.0	0.0	0.0	0.0	0.0	0.0	1.6
+
+Phage	Dunamis (FD)	BigShaq (CS2)	Karkharias (FA)	PartyCup (AK)	ShowerHandel (F1)	Balomoji (E)	Dauntless (EF)	Benllo (AM)	Kovu (AL)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	1.2	0.0	0.0	0.0
+
+Phage	Ajin (EF)	DosHalletts (F1)	Crestdrop (EF)	OverHedge (EF)	Ubuntu (Q)	Gack (EB)	Wolfstar (ED)	YoungHarleezy (AY)	Sashimi (AY)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	1.6	0.0	0.0	0.0
+
+Phage	Edison31 (A10)	HungryHenry (EA1)	Evcara (GI)	Agent47 (K5)	Megsy (K1)	StewieG (A1)	Bloom (FC)	ZoMa (G1)	ECartman (G1)
+Phroglets (Singleton)	1.5	1.6	0.0	0.0	0.0	1.4	2.0	0.0	0.0
+
+Phage	Hortihabitatio (DJ)	HannahPhantana (AS2)	Mooshroom (AM)	Teaspoon (E)	Kukla (FJ)	Sue2 (AZ1)	Quisquiliae (B1)	Patbob (FC)	BigBubba (E)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	1.6	1.3	2.0	1.2
+
+Phage	TrippleS (EK2)	MiniBagel (AU1)	Oaklynn (EE)	Benry (EJ)	Typhonomachy (CT)	BenchScraper (AY)	Phaby (AU2)	Xandras (E)	Guppsters (F1)
+Phroglets (Singleton)	1.7	0.0	0.0	0.0	1.5	0.0	2.7	1.2	0.0
+
+Phage	LittleShirley (F1)	Elver (FK)	Pointis (AP2)	PhesterPhotato (F1)	Bintii (EE)	Zainub (BD2)	Jevington (BD2)	TwoPeat (A1)	BabyBack (A2)
+Phroglets (Singleton)	0.0	1.0	0.0	0.0	0.0	0.0	0.0	1.4	1.4
+
+Phage	Samora (BB1)	Strobilo (K2)	Neeharika16 (A6)	Silvy (N)	CampRoach (B1)	Jinglebell (F1)	GirlDinner (BD2)	RoscoWindex (EE)	ShakeItOph (AZ4)
+Phroglets (Singleton)	1.7	0.0	1.3	0.0	1.3	0.0	0.0	0.0	1.5
+
+Phage	Jollipop (EC)	FarmerDoug (EA1)	Rimu (B1)	LilTerminator (EA5)	Poultress (EF)	JingleBells (EF)	MrPhizzler (B1)	MasterPitts (EE)	Sage7 (EE)
+Phroglets (Singleton)	0.0	1.6	1.3	1.6	0.0	0.0	1.3	0.0	0.0
+
+Phage	StAugustine (AI)	AWGoat (AP4)	Cazares (EE)	Raphaella (AY)	PotPie (CT)	Megatron06 (H1)	FlyingTortilla (DQ)	ScarletRaider (DQ)	Loviatar (EB)
+Phroglets (Singleton)	1.1	0.0	0.0	0.0	1.5	0.0	0.0	0.0	0.0
+
+Phage	MenE (GA)	Yami (EE)	Biscayne (EE)	Raqqa (AY)	GreenIvy (EA5)	BarbieDoll (AU6)	Judebell (EG)	Avvas (EE)	DaftyDuck (EE)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	1.7	1.4	1.3	0.0	0.0
+
+Phage	Superstar (BD2)	RicoCaldo (EK2)	Exile (AZ)	Renaldo (AU6)	Greely (C2)	Phisb (EB)	IbOuu (F1)	Mugiwara (BE2)	Aikyam (AY)
+Phroglets (Singleton)	0.0	1.7	1.7	1.4	0.0	1.5	0.0	0.0	0.0
+
+Phage	SoilGremlin (EA1)	AinMach (AZ)	Pharpay (EF)	OldNelly (EA1)	Samy (Singleton)	MrSmee (FQ)	Delphidian (EA1)	Phiderman (EA1)	MissAmericana (EM2)
+Phroglets (Singleton)	1.6	1.5	0.0	1.6	1.3	0.0	1.6	1.6	0.0
+
+Phage	KentuckyRacer (BE2)	Pitbull (FQ)	RootBeer (FA)	JanetJ (FO)	BobbyK (B4)	JustASigh (AH)	Rowlf (EG)	Crisis (EC)	CeilingFan (BE2)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	1.3	0.0	1.3	0.0	0.0
+
+Phage	Mao1 (AD)	Barroma (EK2)	Shamu (EA2)	DaviePasture (DV)	MakoManhole (DR)	DonTron (CP)	DoctorPepper (AW)	SuMoo (EH)	MellowYellow (AP2)
+Phroglets (Singleton)	0.0	0.0	1.6	0.0	1.4	0.0	1.4	1.4	0.0
+
+Phage	DoobyDoo (DV)	MoiGyank (DV)	Annalisa (CZ4)	Halfpint (B3)	Totinger (F1)	CabbageMan (FE)	TukTuk (EB)	Asterius (C1)	SJReid (FC)
+Phroglets (Singleton)	0.0	0.0	0.0	1.3	0.0	0.0	1.5	0.0	1.0
+
+Phage	Dove (J)	Issimir (C1)	Godfather (EE)	Ganandorf (EC)	Stargaze (G5)	Snuffles (EE)	Waterlily (EK2)	Bellis (L3)	EmyBug (A9)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.4
+
+Phage	Icarian (EB)	Pumpkins (AZ1)	JuneStar (AZ1)	Selr12 (B1)	Ricotta (B1)	Orfeu (B1)	Dice (B1)	Pacifista (B1)	Olak (B1)
+Phroglets (Singleton)	1.5	1.6	1.6	1.3	1.3	1.3	1.3	1.3	1.3
+
+Phage	JDog (B1)	Lee7 (C1)	Rileysaurus (BU)	Petito (DJ)	Htur (EJ)	Yeti (EC)	Teodoridan (A1)	Agaliana (A1)	Enochoraptor (BU)
+Phroglets (Singleton)	1.3	0.0	0.0	0.0	0.0	0.0	1.4	1.4	0.0
+
+Phage	Perkunas (DJ)	MaVan (CT)	Zeph (DJ)	Xenia2 (DV)	Farewell (AF)	Chanagan (A1)	BluSpix (A1)	Brilliant (B1)	WestPM (EA11)
+Phroglets (Singleton)	0.0	1.6	0.0	0.0	1.4	1.4	1.4	1.3	1.7
+
+Phage	PensacolaC28 (Singleton)	RainyPolka (BG)	CoolCookie (EF)	TinyDot (Singleton)	DrWorm (Singleton)	Oatly (EK1)	Alberto7 (A4)	AustinPowers (AK)	Biozilla (EK1)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	1.4	0.0	0.0
+
+Phage	Lunsford (A4)	Pygmy (P1)	FreddyB (F1)	IttyBittyPiggy (AZ1)	Sillytadpoles (EG)	Cashington (EB)	Caraxes (A2)	StirfryIV (EA1)	KingJulien (EA1)
+Phroglets (Singleton)	1.4	0.0	0.0	1.5	1.3	1.5	1.3	1.6	1.6
+
+Phage	CyranoPS (Singleton)	JeanGrey (Singleton)	NickSell (EA1)	Wildflower (O)	Bora (O)	DonaldDuck (EG)	Bosection6 (N)	Colin (A2)	Wilca (EG)
+Phroglets (Singleton)	0.0	1.2	1.6	0.0	0.0	1.3	0.0	1.4	0.0
+
+Phage	Dorothea (A6)	LappelDuVide (A4)	Chickaboom (AS1)	HitchHiker (EK1)	Tissue (EG)	Kyva (EG)	Llemily (EG)	GravityBall (AO2)	Soondubu (AZ)
+Phroglets (Singleton)	1.3	1.4	0.0	0.0	1.3	1.3	1.3	0.0	1.6
+
+Phage	MissSwiss (AZ1)	Zhafia (EG)	MortyNRick (DN)	JCole (CZ2)	ZAYM (DB)	PantheRoc (CZ3)	Hartsy (B1)	Baumdotcom (DE1)	Kaseim (CS3)
+Phroglets (Singleton)	1.5	1.3	0.0	0.0	0.0	0.0	1.3	0.0	0.0
+
+Phage	Poland (CS2)	Paolo (BD2)	Puginator (BD2)	Shinji (DC1)	PhriskyACE (CZ4)	Pepperoni (CZ)	Scioto (DE4)	Hugley (CZ1)	Leathea (AU6)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.3
+
+Phage	CharlottesWeb (DR)	Sunny4976 (FI)	Jazzy4900 (FI)	Cardigan (DD)	Charianelly (CS3)	Capybara (DJ)	BackstagePass (DB)	CathyBurgh (CS2)	Belphegor (DE)
+Phroglets (Singleton)	1.4	4.1	4.1	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	Berries (CS3)	Leo04 (BE1)	Stem (EE)	JayJay (C1)	MontyDev (R)	Ashwin (O)	BrayBeast (FB)	Watermoore (BE1)	Derg (DE1)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	Eggsie (CS2)	LasagnaCat (B1)	Natkenzie (DE4)	Schuy (O)	Kamashten (DE1)	MiniMommy (AZ4)	RomansRevenge (Singleton)	PinkFriday (AK)	Elspeth (EE)
+Phroglets (Singleton)	0.0	1.3	0.0	0.0	0.0	1.5	0.0	0.0	0.0
+
+Phage	JooneeDee (EE)	EastView9101 (B5)	Charbie (EE)	JeriBeth (EA1)	FoulBall (O)	Abblin (DE4)	BirdInFrench (EG)	JasmineDragon (AZ4)	Francob (BK1)
+Phroglets (Singleton)	0.0	1.3	0.0	1.6	0.0	0.0	0.0	1.5	0.0
+
+Phage	Liandry (BE1)	SarBear (EB)	Nirvana (BM)	MunkgeeRoachy (CT)	Vanseggelen (BD3)	Verabelle (BD3)	Raunak (AW)	GoldHunter (CT)	Oogie (DQ)
+Phroglets (Singleton)	0.0	1.5	0.0	1.5	0.0	0.0	2.8	1.5	0.0
+
+Phage	Curie (GI)	Aloki (DQ)	Vordorf (DT)	Azrael100 (V)	Amao (E)	Poster (B4)	StinkyVeggy (B5)	SwirlSquare (A2)	Baoshan (L2)
+Phroglets (Singleton)	0.0	0.0	0.0	1.2	1.2	1.3	1.4	1.3	0.0
+
+Phage	Nanao (B4)	Mysterious (B5)	RemRem (CS2)	PierreThree (CS2)	Grasshills (C1)	Sonah (P1)	Jayhawk (K1)	Gibbi (BE2)	Mudpuppy (AZ1)
+Phroglets (Singleton)	1.3	1.3	0.0	0.0	0.0	0.0	0.0	0.0	1.6
+
+Phage	JasonD (EA1)	Feyre (K5)	TClif (K6)	Spouty (A9)	Darrell (A9)	Cornobble (B1)	Pelly (A1)	Juniper1 (F1)	Llorens (K1)
+Phroglets (Singleton)	1.6	0.0	1.3	1.3	2.7	1.3	1.4	0.0	0.0
+
+Phage	Gwendoluna (A1)	Blubba (C1)	AmericanBeauty (E)	Nangang (B5)	ZhongYanYuan (L2)	BillDoor (CT)	Lila22 (DV)	EggyFarm (C1)	BigCity (C1)
+Phroglets (Singleton)	1.4	0.0	0.0	1.3	0.0	1.5	0.0	0.0	0.0
+
+Phage	Globfish (AY)	Shagrat (CF)	Reynauld (Singleton)	Maselop (CR)	Polyyuki (CR)	MacGully (CR)	GuyFagieri (CR)	Apiary (CR)	AbbyDaisy (AY)
+Phroglets (Singleton)	0.0	1.3	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	Tillums (FD)	Wilkos (BN)	LuckySocke (BS)	Nodigi (CT)	LuckyLeo (DV)	Hirko (FL)	Alone3 (BS)	TribleTrouble (K3)	Anekin (AY)
+Phroglets (Singleton)	0.0	0.0	1.1	1.5	0.0	0.0	1.1	0.0	0.0
+
+Phage	Piku (FE)	Artorias (DJ)	Naval22 (C1)	Jobypre (L3)	Hashim76 (B13)	Ageofdapage (K1)	Apeppi (DV)	Magritte (Singleton)	Kumquat (BF)
+Phroglets (Singleton)	3.1	0.0	0.0	0.0	1.3	0.0	0.0	0.0	0.0
+
+Phage	Cursive (BE1)	Lululemon (BE1)	PinkiePie (BE1)	PacManQ (BE1)	Philus (F1)	EdnaMode (CZ2)	Smilerella (GH)	MoRicky (GH)	Sollertia (BE2)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	BarryBee (BD1)	Wishmaker (Q)	Kaleb (B2)	PierreOrion (EC)	TenaciousP (DJ)	Maravista (F1)	LBerry (A3)	Pembroke (A3)	Holt (E)
+Phroglets (Singleton)	0.0	0.0	1.4	0.0	0.0	0.0	1.4	1.4	1.2
+
+Phage	Nergal (AG)	Eurydice (A4)	TruffulaTree (K1)	Amabiko (BE2)	Miek (BI4)	Basato (B1)	MulchSalad (F)	Blage (EA1)	Dennebes (BF)
+Phroglets (Singleton)	0.0	1.4	0.0	0.0	0.0	1.3	0.0	1.6	0.0
+
+Phage	Nebulosus (A15)	Yummy (CT)	Discoknowium (A5)	BirthdayBoy (DV)	StubbySaigey (C1)	Kremtemulon (A4)	Damascus (EL)	Janus167 (EA1)	SoJo (BC1)
+Phroglets (Singleton)	1.3	1.5	1.4	0.0	0.0	1.4	0.0	1.6	0.0
+
+Phage	ChickenDinner (F1)	Patelgo (BK1)	Pakusa (DQ)	Tedro (EF)	BAjuniper (EB)	Radiance (F1)	Paraselene (A1)	Caprice (S)	LunaBlu (F1)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	1.6	0.0	1.4	0.0	0.0
+
+Phage	Clock (EA5)	TiniBug (K1)	Casino (EM1)	Chatham (EE)	Nicky22 (EB)	Picnic (EE)	Argan (AU6)	Cyan (AZ1)	Danimal (EE)
+Phroglets (Singleton)	1.7	0.0	0.0	0.0	1.5	0.0	1.4	1.5	0.0
+
+Phage	LionelHutz (EE)	Horacetta (EE)	Asta (EA1)	Goobery (EE)	Agente005 (EA1)	Rhogar (EE)	Douggie (EE)	Dooby (EE)	Garey24 (EA1)
+Phroglets (Singleton)	0.0	0.0	1.6	0.0	1.6	0.0	0.0	0.0	1.6
+
+Phage	PrincePatrick (CV)	JaNo (AR)	Issa (AU1)	Groundhog (A8)	Jamzy (CT)	Heylee (AQ)	CheetoDust (K1)	ClamChowder (DC1)	Tiff81 (AY)
+Phroglets (Singleton)	0.0	0.0	0.0	1.4	1.5	2.8	0.0	0.0	0.0
+
+Phage	Jstan (AZ1)	Community (AZ1)	ShaiHulud (EA1)	FlameThrower (EB)	NorManre (DV)	Vispistious (EA1)	BearBQ (DN)	ChikPic (EA2)	SirVictor (EA4)
+Phroglets (Singleton)	1.5	1.5	1.6	1.6	0.0	1.6	0.0	1.6	1.7
+
+Phage	GoldenBlanche (EE)	Amavida (AQ)	Vulpecula (AS1)	Moleficent (EK2)	Astro16 (EE)	Kojax4 (EE)	Zenitsu (EA2)	Anedea (BE1)	RedFox (AS3)
+Phroglets (Singleton)	0.0	2.8	0.0	1.7	0.0	0.0	1.6	0.0	0.0
+
+Phage	ProfFrink (AW)	Alkhayr (O)	Kevanna (EE)	Spec (C1)	Matsumoto (C1)	LittleFortune (EC)	PhluffyCoco (AS3)	GOATification (DV)	Fulcrum (DV)
+Phroglets (Singleton)	1.4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	Arielagos (AN)	Talia1610 (FC)	SheRa (BI2)	Provolone (BD3)	Marav (BD2)	Dexers (BD3)	Kwekel (DE3)	Misaeng (AK)	BrotherBLo (AK)
+Phroglets (Singleton)	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	AEgle (AZ1)	Goib (CU1)	AGrandiflora (AZ1)	Wildwest (AZ1)	Djungelskog (AW)	Morgana (DZ)	DumpQuist (EK1)	PSonyx (EQ)	CaptainRex (EA5)
+Phroglets (Singleton)	1.6	0.0	1.5	1.6	1.4	0.0	0.0	1.2	1.6
+
+Phage	Makoto (AK)	Lakshmi (AK)	Kalizoi (AK)	LitninMcQueen (DN1)	MoontowerMania (DE1)	OlgasClover (DJ)	Nibbles (CT)	Conley (DJ)	Schimmels22 (EA11)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	1.6	0.0	1.7
+
+Phage	Saints25 (E)	Crater (DN3)	Hermeonysus (EC)	Highbury (E)	Karhdo (F1)	Baine (EE)	Tian (AZ1)	Kikiko (EM2)	Rialto (F1)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	1.6	0.0	0.0
+
+Phage	Polkaroo (P1)	Milani (EJ)	HayZem (CS1)	Kwobi (DE1)	LilHam (DE1)	Fozzie (B1)	SanaSana (EB)	Oksu (F1)	Niffler (EE)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	1.3	1.6	0.0	0.0
+
+Phage	Simpson (AZ1)	Joemato (AZ1)	PhatLouie (B1)	Acosta (EA1)	Slizam (EE)	EnochSoames (BD1)	Daka (B1)	Swiphy (B1)	Celery (BD3)
+Phroglets (Singleton)	1.5	1.5	1.3	1.6	0.0	0.0	1.3	1.3	0.0
+
+Phage	Tillicus (DV)	Caravan (C1)	ShroomBoi (F1)	SlimJimmy (M1)	Calm (L1)	Phredrick (BK1)	Wyborn (AO2)	Soos (CP)	Spelly (BE2)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	Erenyeager (ED2)	RikSengupta (EF)	EndAve (DJ)	Altadena (FH)	Erudite (EF)	Morrigan (EA6)	Slay (EB)	Savbucketdawg (DC1)	Dropshot (GA)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	1.6	1.5	0.0	0.0
+
+Phage	ASegato (ED2)	DejaVu (ED1)	Outis (CR2)	Lewando (AU6)	Horseradish (CT)	Phrank15 (AY)	PhunaPhoke (EF)	Rapheph (EA1)	PuffyCat (EE)
+Phroglets (Singleton)	0.0	0.0	0.0	1.4	1.5	0.0	0.0	1.6	0.0
+
+Phage	Braxoaddie (CR)	SophKB (E)	Budski (DN)	Jflix2 (CF)	ResDef (A3)	PascalRango (A1)	MAckerman (L1)	Milcery (A5)	Ashballer (A1)
+Phroglets (Singleton)	0.0	1.2	0.0	0.0	1.4	1.4	0.0	1.4	1.4
+
+Phage	Bombitas (J)	Rog141 (EA1)	Spino (A4)	Auspice (M1)	Finalfrontier (EB)	Stap (F1)	Sizemore (G1)	PurduePete (C1)	Juniormint (P1)
+Phroglets (Singleton)	0.0	1.6	1.4	0.0	1.5	0.0	0.0	0.0	0.0
+
+Phage	NedWong (C1)	AlpineSix (F1)	MadKillah (O)	Ngannou (C1)	SrishMeg2525 (C1)	Mabodamaca (EH)	Ruchi (AS1)	SerialPhiller (AN)	Jera (EJ)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	1.5	0.0	0.0	0.0
+
+Phage	JaimeB (EE)	Ekko14 (EE)	RunningBrook (ED2)	JulietS (C1)	MiniBoss (B1)	MooKitty (AX)	VroomVroom (AZ4)	MidnightRain (AY)	BlueHusk (B1)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	1.3	0.0	1.6	0.0	1.3
+
+Phage	GrecoEtereo (A1)	Gusanita (FF)	Phayeta (B3)	SallyK (EG)	Koreni (A4)	Fribs8 (CT)	Alyssamiracle (DV)	KillerTomato (EE)	JDawG (EF)
+Phroglets (Singleton)	1.4	0.0	1.3	1.3	1.4	1.6	0.0	0.0	0.0
+
+Phage	Mossy (DJ)	Erutan (DV)	Huwbert (GG)	Deenasa (B3)	Diminimus (M1)	Simielle (B1)	Nyala (B1)	Azira (CT)	Lumine (B1)
+Phroglets (Singleton)	0.0	0.0	1.3	1.3	0.0	1.3	1.3	1.6	1.3
+
+Phage	Devonte (B3)	Gamgam (C1)	Phonegingi (GA)	Sapo (DA)	Dulcita (M1)	Hydrus (DJ)	Sisko (DR)	DelRivs (B1)	Glaske16 (M1)
+Phroglets (Singleton)	1.3	0.0	0.0	0.0	0.0	0.0	1.4	1.3	0.0
+
+Phage	Aikoy (AE)	BarnCat (GB)	DaddyRickover (F1)	Maneater (EE)	Guetzie (EA4)	Bachaco (EB)	Yelo (R)	TaiwanKao (K1)	DigitDog (B5)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	1.7	1.6	0.0	0.0	1.3
+
+Phage	Concombre (C1)	Lopsy (B1)	TagePhighter (BD1)	Persimmon (BE1)	Bogota (BH)	Kenrey (BK1)	Altheas (EG)	Romm (EG)	ThirteenKH (EK2)
+Phroglets (Singleton)	0.0	1.3	0.0	0.0	0.0	0.0	1.3	0.0	1.7
+
+Phage	Heftyboy (K5)	Frankicide (B1)	Chargerpower (A)	Tierra (K6)	Shadow1 (K6)	Syra333 (K6)	BronxBay (AW)	Starcevich (F1)	MaGuCo (AZ2)
+Phroglets (Singleton)	0.0	1.3	1.3	0.0	1.3	1.3	1.4	0.0	1.6
+
+Phage	Bee17 (GE)	SCoupsA (GE)	Emotion (AZ4)	CallinAllBarbz (FP)	BlueCrab (F1)	Cullens (A3)	Kronus (B3)	BlueBird (A3)	RedBird (F1)
+Phroglets (Singleton)	0.0	0.0	1.5	1.6	0.0	1.4	1.3	1.4	0.0
+
+Phage	Fregley (EG)	Tinyman4 (EA11)	Douge (L4)	CalWood4100 (FH)	PickleBack (A5)	Yassified (C1)	Tutumahutu (AZ1)	Stella (BF)	Kabocha (DQ)
+Phroglets (Singleton)	0.0	1.7	0.0	0.0	1.4	0.0	1.5	0.0	0.0
+
+Phage	Dadosky (K5)	YoSam321 (A4)	Lunahalos (K1)	Mudslide (B4)	Schomber (DQ)	Scrick (B1)	Hanem (DQ)	Ascela (AZ1)	UtzChips (EH)
+Phroglets (Singleton)	0.0	1.4	0.0	1.3	0.0	1.3	0.0	1.5	1.5
+
+Phage	Caron (EH)	Barnstormer (EH)	Ms6 (F1)	Usavi (B1)	Chartreuse (A6)	Altman (A1)	Battleship (A15)	Dakiti (CS2)	Hillester (AY)
+Phroglets (Singleton)	1.4	1.5	0.0	1.3	1.3	1.4	2.6	0.0	0.0
+
+Phage	Marshmallow (E)	IgnatiusPatJac (A1)	Clownery (EE)	Babyland (C1)	Dewey (Q)	Linda (AW)	Holliday (DN1)	Aegeus (L5)	Melc17 (B1)
+Phroglets (Singleton)	1.2	1.4	0.0	0.0	0.0	1.4	0.0	0.0	1.3
+
+Phage	Dalilpop (CR1)	Sting (CP)	SoYo (A3)	Shweta (N)	LimaBean (EB)	Barbochs (CS2)	Philon9 (CS4)	Burley (DJ)	Doxi13 (BI2)
+Phroglets (Singleton)	0.0	0.0	1.4	0.0	1.6	0.0	0.0	0.0	0.0
+
+Phage	RickRoss (BO)	Ranunculus (AP)	Albedo (EB)	PeggyLeg03 (FA)	Bauer (FN)	Hager (EF)	MelBee03 (EE)	Pixelle (AZ1)	Scruffy (EM1)
+Phroglets (Singleton)	0.0	0.0	1.5	0.0	0.0	0.0	0.0	1.6	0.0
+
+Phage	Renna12 (AS3)	Shambre1 (Singleton)	FireCastle (EJ)	GoldenAsh (G1)	Stanimal (BE2)	Kors (EF)	Lonelysoil (EG)	Pepperwood (BE1)	RosePharie (BF)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	1.3	0.0	0.0
+
+Phage	Baudelaire (L5)	Triumph (BD2)	Success (BT)	Oregano (CZ4)	Andris (BD2)	Snek (AZ3)	TforTroy (AZ1)	GalacticEye (CS3)	YellowPanda (EK1)
+Phroglets (Singleton)	0.0	0.0	1.4	0.0	0.0	1.6	1.5	0.0	0.0
+
+Phage	Mikro (C1)	Salvador (DC1)	Frankenweenie (BM)	TonyStarch (BI1)	Figueroism (EA1)	Jedediah (C1)	Vorvolakos (BF)	PinkYoshi (G1)	Annihilus (BI2)
+Phroglets (Singleton)	0.0	0.0	0.0	1.4	1.6	0.0	0.0	0.0	0.0
+
+Phage	Morkie (DH)	Hibiscus (DY)	Ejemplo (BD1)	AxeJC (BP)	Bianmat (CS3)	HFrancette (BP)	Squillium (BE1)	OscarSo (GJ)	Pureglobe5 (AP2)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	LuzDeMundo (GE)	Johnathan (EB)	Cassita (GB)	MortySmith (EF)	Fransoyer (EG)	Huphlepuff (S)	Zucker (FN)	Perplexer (A4)	CandC (EG)
+Phroglets (Singleton)	0.0	1.6	0.0	0.0	1.3	0.0	0.0	1.4	0.0
+
+Phage	Janeemi (AZ1)	Happiness (A4)	Birdfeeder (EK1)	RadFad (AY)	Jarcob (F1)	Fullmetal (EK2)	Phantasmagoria (B2)	Teng (GF)	Elinal (CT)
+Phroglets (Singleton)	1.5	1.4	0.0	0.0	0.0	1.7	1.4	0.0	1.5
+
+Phage	KayGee (CT)	Rahul (CW2)	Thimann (CZ4)	VResidence (AZ1)	Jemerald (EA6)	StevieWelch (ED2)	Jamun (AS1)	Phomeo (CR2)	MmasiCarm (B3)
+Phroglets (Singleton)	1.5	0.0	0.0	1.5	1.6	0.0	0.0	0.0	1.3
+
+Phage	Phepper (DJ)	Uzumaki (AU6)	BabyDaisy (EB)	Orwigg (B1)	LilyPad (DG1)	Hannabella (EM1)	Genamy16 (DV)	Aoka (FO)	Chridison (AK)
+Phroglets (Singleton)	0.0	1.4	1.5	1.3	0.0	0.0	0.0	0.0	0.0
+
+Phage	Shygu2 (A4)	Jumboset (AK)	SydNat (A5)	Dexes (A1)	Rummer (A3)	Austelle (B4)	Ciao (A1)	Sloopyjoe (AW)	PokyPuppy (CS2)
+Phroglets (Singleton)	1.4	0.0	1.4	1.4	1.4	1.3	1.4	1.4	0.0
+
+Phage	Jovita (EB)	Upsilon (EE)	NovaSharks (DV)	BilboSwaggins (E)	HashRod (A3)	Sunflower1121 (K6)	Corn21 (EK1)	BABullseye (A6)	EdElric (EE)
+Phroglets (Singleton)	1.6	0.0	0.0	1.2	1.4	1.3	0.0	1.4	0.0
+
+Phage	LittleMunchkin (DR)	Mareelih (DS)	Bench (E)	Aubs (F1)	TomBrady (G1)	KyriosFaba (EE)	ShaboiShabazz (G1)	Venti (P1)	Topper (K1)
+Phroglets (Singleton)	1.4	1.1	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	KappaFarmDelta (CV)	Sparcetus (EF)	Rosmarinus (K1)	Antuna (GA)	DoTi (EM1)	Loca (EE)	Hankly (AM)	Inked (AU)	Hum25 (FQ)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	BenitoAntonio (AM)	Chop (DI)	LilHuddy (AU2)	MrAaronian (AW)	Finkle (Singleton)	Biskit (CT)	Deloris (A2)	GardenB (EA1)	Eesa (AS1)
+Phroglets (Singleton)	0.0	0.0	1.4	1.4	0.0	1.5	2.7	1.6	0.0
+
+Phage	GantcherGoblin (AU6)	Arti (CR2)	Halo3 (DC1)	Periwinkle (DN1)	StarStruck (CR2)	Kamaru (DN1)	Hexbug (CT)	Thing3 (DE1)	JonJames (DD)
+Phroglets (Singleton)	1.4	0.0	0.0	0.0	0.0	0.0	1.5	0.0	0.0
+
+Phage	Inspectinfecti (DE2)	ChiliPepper (EB)	Widow (CD)	Pavlo (ED1)	Burgy (EE)	Gingerbug (GF)	EarickHC (EC)	Iter (AZ1)	HerculesXL (EA11)
+Phroglets (Singleton)	0.0	1.6	1.6	0.0	0.0	0.0	0.0	1.5	1.7
+
+Phage	Gezellig (DC1)	Poompha (A10)	Potty (EF)	Witch (EE)	Thompsone (EA1)	Big4 (GD2)	Alucard (EE)	Tuck (AZ1)	Barkley26 (G1)
+Phroglets (Singleton)	0.0	1.4	0.0	0.0	1.6	1.0	0.0	1.5	0.0
+
+Phage	OmniCritical (K4)	Albanese (AK)	Kharcho (FM)	CassieYates (G1)	Berrie (AZ1)	ViaConlectus (DE4)	Flatwoods (DE1)	JohnDoe (AZ1)	Pherobrine (DJ)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	1.5	0.0	0.0	1.5	0.0
+
+Phage	Cassia (AZ1)	ObiToo (AZ1)	Wheezy (CR2)	Arzan (FI)	Ottawa (FM)	Librie (EA5)	Minos (CS3)	Wayne3 (EG)	OneDirection (CZ6)
+Phroglets (Singleton)	1.5	1.5	0.0	4.0	0.0	1.6	0.0	1.3	0.0
+
+Phage	Shivanishola (DE1)	Nettuno (CZ2)	Erin (EE)	Viceroy (EG)	Grassboy (EG)	Frickyeah (DN1)	MrWormie (CS3)	Gillker (EE)	Shelley (CS3)
+Phroglets (Singleton)	0.0	0.0	0.0	1.3	1.3	0.0	0.0	0.0	0.0
+
+Phage	BlueNGold (DS)	Clap (CZ2)	Lton (CZ)	Spilled (BE2)	ScienceWizSam (AU1)	MoyaNatalis (AR)	YemiJoy2021 (C1)	Hollow (CS4)	Birdsong (DN)
+Phroglets (Singleton)	1.1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	PullumCavea (DC1)	CheeseTouch (DN1)	Maby2021 (C1)	JPandJE (BF)	Capablanca (C1)	AreFloNak (AU1)	Malisha (DN)	Jams (CS3)	Lidong (CS3)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	OtterstedtS21 (DV)	Patos (DV)	Francois (DI)	Vardy (DJ)	Button (CT)	Survivors (CT)	MirimarMandM (EE)	Beakin (F1)	MossRose (DR)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	1.5	1.5	0.0	0.0	1.4
+
+Phage	Eliott (CT)	Phalconet (F1)	Phorgeous (EC)	BinkBonk (EE)	QMacho (EB)	PhredFlintston (EA1)	CrazyRich (EC)	Phireproof (EA1)	Bolt007 (FH)
+Phroglets (Singleton)	1.5	0.0	0.0	0.0	1.5	1.6	0.0	1.6	0.0
+
+Phage	Tallboi (AZ1)	EvePickles (AY)	GlobiWarming (FA)	TaylorSipht (AS1)	Etaye (B1)	LostAndPhound (B1)	Santhid (DY)	Ecliptus (DN)	Wrigley (CY)
+Phroglets (Singleton)	1.5	0.0	0.0	0.0	1.3	1.3	0.0	0.0	0.0
+
+Phage	Gshelby23 (EM1)	Clayda5 (EB)	Cranjis (EC)	Fayely (A9)	Tooj (B1)	DuncansLeg (L3)	Publix (EE)	Gorpy (AY)	Norz (A1)
+Phroglets (Singleton)	0.0	1.5	0.0	1.4	1.3	0.0	0.0	0.0	1.4
+
+Phage	Sakai (AY)	Funsized (B9)	Toni (B1)	Briakila (B3)	Soile (B1)	Asis (BG)	GreenWeasel (BD4)	BroPlease (BD4)	Marky (BH)
+Phroglets (Singleton)	0.0	1.4	1.3	1.3	1.3	0.0	0.0	0.0	0.0
+
+Phage	Cen1621 (EH)	Juanyo (EA10)	Gilberta (A11)	IkeLoa (C1)	Dynamo (P1)	Skinny (M1)	Eula (EB)	Virgeve (B1)	Tardus (DE4)
+Phroglets (Singleton)	1.5	1.6	1.3	0.0	0.0	0.0	1.5	1.3	0.0
+
+Phage	Yorick (F1)	LesNorah (EK1)	CaiB (DR)	Endor (EA1)	Chomp (C1)	Rockne (F1)	Slagathor (A1)	Tote (A1)	Molly (A1)
+Phroglets (Singleton)	0.0	0.0	1.4	1.6	0.0	0.0	1.4	1.4	1.4
+
+Phage	JuliaChild (A1)	Tucker (A6)	Peterson (A1)	Swole (A1)	Marmie (G1)	Pablito (BD2)	Mask (AD)	Schueller (B1)	Mopey (D1)
+Phroglets (Singleton)	1.4	1.3	1.4	1.4	0.0	0.0	0.0	1.3	0.0
+
+Phage	Casbah (B3)	Tiri (K1)	Shatter (DR)	KannH (EA1)	Ligma (DR)	Maco6 (AB)	Axumite (DR)	JasperRussell (EA1)	Fresco (DR)
+Phroglets (Singleton)	1.3	0.0	1.4	1.6	1.4	3.1	1.4	1.6	1.4
+
+Phage	AranulaLuti (EA1)	Rita (F1)	Nivinsha (AU1)	AluminumJesus (EG)	VRedHorse (F1)	Madiba (F1)	DirtMonster (C1)	Wheelie (EG)	Kate (EF)
+Phroglets (Singleton)	1.6	0.0	0.0	0.0	0.0	0.0	0.0	1.3	0.0
+
+Phage	Zagie (EG)	GigiOuiOui (F1)	Gazebo (EG)	Eyeball (A1)	Monet (A1)	Dati (B1)	Leopard (AE)	Sejanus (AD)	Jefe (EC)
+Phroglets (Singleton)	1.3	0.0	1.3	1.4	1.3	1.3	0.0	0.0	0.0
+
+Phage	Arianna (EO)	Angela (BE1)	BiggityBass (DR)	Idergollasper (O)	Evaa (DR)	Cole (FF)	MelsMeow (B1)	Basilisk (AS1)	DustyDino (ED2)
+Phroglets (Singleton)	0.0	0.0	1.4	0.0	1.4	0.0	1.3	0.0	0.0
+
+Phage	Yuma (ED2)	ObLaDi (DZ)	McGee (C1)	Rumi (DV)	ParvusTarda (DV)	Nicole72 (EC)	Labelle (U)	CindyLou (C1)	NoShow (AB)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.4
+
+Phage	VieEnRose (BD6)	Eastland (BP)	Stuff (BH)	SororFago (A14)	Zimmer (A12)	HarryHoudini (A2)	Rifter (A6)	Bonamassa (A5)	Hilltopfarm (Y)
+Phroglets (Singleton)	0.0	0.0	0.0	1.3	1.4	1.4	1.3	1.4	0.0
+
+Phage	Amymech (Q)	Kenmech (A1)	Dussy (A1)	Abbyshoes (A1)	Marge (A1)	Duocatuli (EA1)	Chako (EA1)	Sampudon (DV)	Sampson (DE4)
+Phroglets (Singleton)	0.0	1.4	1.4	1.4	1.4	1.6	1.6	0.0	0.0
+
+Phage	StorminNorm (DE1)	Camerico (DF)	Phauci (DE2)	SchottB (DE1)	Whatsapiecost (F1)	Sourignavong (AN)	Meyran (DT)	BobBob (DE1)	Switzerland (A15)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.7
+
+Phage	Murp (CV)	Hasitha (EA5)	I3 (C1)	JalFarm20 (F1)	BrazzalePHS (EC)	Berka (FE)	Warda (AZ1)	Wiggin (E)	South40 (BD1)
+Phroglets (Singleton)	0.0	1.6	0.0	0.0	0.0	0.0	1.5	1.2	0.0
+
+Phage	Thresher (E)	Sparxx (A4)	PeaceMeal1 (A10)	Leviathan (A2)	Katalie (BD1)	SarahRose (BD1)	OnionKnight (Singleton)	Bartholomune (BE1)	Bilo (BI2)
+Phroglets (Singleton)	0.0	1.4	1.4	1.4	0.0	0.0	0.0	0.0	0.0
+
+Phage	Neos5 (B3)	Knocker (B9)	Zizzle (F1)	Leperchaun (F1)	Legacy (BD1)	RayTheFireFly (DB)	StagePhright (EK2)	Manasvini (CZ1)	Sham4 (A11)
+Phroglets (Singleton)	1.3	1.3	0.0	0.0	0.0	0.0	1.7	0.0	1.3
+
+Phage	Tomlarah (B1)	Niagara (CS4)	Sticker17 (CS3)	Malachai (CV)	Jemmno (C1)	PCoral7 (CV)	Pytheas (CY)	Pickett (CZ2)	Blett (GA)
+Phroglets (Singleton)	1.3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	Nitro (AZ1)	ManAs (EE)	Necrophoxinus (ED2)	Abigail (EB)	Zaheer (FF)	Phabuloso (DN1)	APunk (DE4)	Lizzo (CS2)	Looper (A15)
+Phroglets (Singleton)	1.5	0.0	0.0	1.6	0.0	0.0	0.0	0.0	1.3
+
+Phage	Anaysia (A15)	Boohoo (A15)	Aflac (DJ)	Pepe25 (EG)	Jannah (EE)	Footloose (Singleton)	Inventa (EA1)	Licorice (A1)	Wooper (DR)
+Phroglets (Singleton)	1.3	1.3	0.0	0.0	0.0	0.0	1.6	1.4	1.4
+
+Phage	Vine (CT)	Nithya (DJ)	Weher20 (B1)	DrSeegs (L2)	Hoot (A6)	Jolene (G1)	Norvs (CQ1)	Klevey (FH)	Tracker (CR2)
+Phroglets (Singleton)	1.5	0.0	1.3	0.0	1.4	0.0	0.0	0.0	0.0
+
+Phage	Lilmac1015 (FH)	Leroy (DN1)	LonelyBoi (CY)	BrokMonster (EE)	LeiMonet (B1)	Snickers (A3)	Prince (B4)	WinkNick (CZ4)	Andre (B1)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	1.3	1.4	1.3	0.0	1.3
+
+Phage	Nicole21 (B1)	MrGreen (EE)	Zany (DV)	Amok (CT)	Clarkson (S)	LarryKay (A3)	Jalebi (DV)	Madi (DG1)	Josuke (EE)
+Phroglets (Singleton)	1.3	0.0	0.0	1.6	0.0	1.4	0.0	0.0	0.0
+
+Phage	Leafy (EE)	Newrala (A6)	Zooman (GD2)	DoctorFroggo (DE4)	Eudoria (CZ1)	Jalammah (CV)	Quallification (E)	Leozinho (F1)	Argent26 (E)
+Phroglets (Singleton)	0.0	1.3	1.0	0.0	0.0	0.0	1.2	0.0	1.2
+
+Phage	Ghoulboy (A5)	Fitzgerald (DE1)	Bonum (CR2)	Float294 (CR3)	Hans (DE2)	AikoCarson (CT)	PsychoKiller (CT)	Sopespian (CT)	AlumE (CZ1)
+Phroglets (Singleton)	1.4	0.0	0.0	0.0	0.0	1.6	1.6	1.6	0.0
+
+Phage	Baddon (DE1)	EastWest (AO)	Puppers (CD)	Phillis (A8)	KeAlii (AZ1)	SummitAcademy (CT)	Mandalorian (EA10)	Honeyfin (EC)	Saratos (EA2)
+Phroglets (Singleton)	0.0	0.0	1.6	1.3	1.6	1.5	1.6	0.0	1.6
+
+Phage	SoSeph (K5)	Swervy (EB)	KimJongPhill (BR)	Eightball (EE)	RetrieverFever (BF)	Enygma (BE2)	Crewmate (AZ1)	TunaTartare (BK1)	SBlackberry (EJ)
+Phroglets (Singleton)	0.0	1.5	1.3	0.0	0.0	0.0	1.5	0.0	0.0
+
+Phage	Lizalica (AZ1)	Zeina (AU6)	Gizermo (CZ2)	MissRona (CV)	Tarzan (DY)	Yeet412 (CZ2)	Floral (CY1)	Morrill (EK2)	Typher (EJ)
+Phroglets (Singleton)	1.5	1.4	0.0	0.0	0.0	0.0	0.0	1.8	0.0
+
+Phage	PineapplePizza (GI)	TurboVicky (EJ)	Pondwater (EE)	Yasuo (EE)	Anseraureola (EE)	Asa16 (AZ1)	Niobe (AZ1)	Wojtek (DV)	Juicer (EA6)
+Phroglets (Singleton)	3.0	0.0	0.0	0.0	0.0	1.5	1.5	0.0	1.6
+
+Phage	MadMen (F1)	Calamitous (B2)	PinkCoffee (DC1)	Quaran19 (BE2)	SaltySpitoon (BE2)	Sunshine924 (A1)	ChadMasterC (DE1)	PetiteSangsue (A4)	Cookiedough (A6)
+Phroglets (Singleton)	0.0	1.4	0.0	0.0	0.0	1.4	0.0	1.4	1.3
+
+Phage	Shotgun (EC)	MiculUcigas (A2)	Trogglehumper (Singleton)	GiKK (CT)	Casserole (AV)	Lola20 (EE)	KatChan (EA6)	Kudefre (DU1)	Agueybana (CZ1)
+Phroglets (Singleton)	0.0	1.3	0.0	1.5	42.8	0.0	1.6	1.2	0.0
+
+Phage	DaddyDaniels (B1)	ScoobyDoobyDoo (C2)	Luna18 (EA6)	Sara (EE)	Izajani (C1)	Giraffe (B1)	Delylah (C1)	Togo (DC1)	MerCougar (CR2)
+Phroglets (Singleton)	1.3	1.0	1.6	0.0	0.0	1.3	0.0	0.0	0.0
+
+Phage	Commandaria (CR2)	Dynamite (AM)	Pherdinand (B1)	ShamWow (E)	Phelipe (A4)	Shlim410 (CZ4)	IndyLu (EB)	AnarQue (DR)	Katniss (B1)
+Phroglets (Singleton)	0.0	0.0	1.3	1.2	1.4	0.0	1.5	1.4	1.3
+
+Phage	Figliar (DJ)	Neptune (EF)	SJay (EA1)	Sarma624 (F1)	Popper (FF)	Sarge (FB)	Seanderson (A1)	TaronosaurasRx (DB)	Kels (AN)
+Phroglets (Singleton)	0.0	0.0	1.6	0.0	0.0	0.0	1.4	0.0	0.0
+
+Phage	Vetrix (L2)	Treat (BF)	Unstoppable (BD1)	Tootsieroll (F1)	SunsetPointe (BD1)	PenguinLover67 (B9)	MaCh (A11)	Sham (BK1)	Enceladus (L1)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	1.3	1.3	0.0	0.0
+
+Phage	Piccadilly (BP)	Phloss (N)	DalanDe (DQ)	DumpTruck (DV)	Duplo (A2)	Stigma (BK1)	Nikao (K1)	Coleslaw (G1)	Gretchen (EH)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	1.4	0.0	0.0	0.0	1.5
+
+Phage	Honk (EH)	Inverness (B1)	Hortense (CZ4)	JordanFarm (EK2)	TomBrady12 (EE)	Cybele (EF)	VanLee (Singleton)	Stormbreaker8 (EA1)	Yubaba (EE)
+Phroglets (Singleton)	1.4	1.3	0.0	0.0	0.0	0.0	0.0	1.6	0.0
+
+Phage	Gardevoir (EE)	EdmundFerry (DE3)	A3Wally (GD1)	Dolores (CZ4)	BarBear (EE)	Tolls (CT)	Samman98 (CZ4)	Moostard (L3)	Pickles13 (GA)
+Phroglets (Singleton)	0.0	0.0	1.0	0.0	0.0	1.6	0.0	0.0	0.0
+
+Phage	Welcome (ED2)	Iceman (A4)	Allegro (B2)	Sabbb (F1)	Duplicity (N)	Cheeto1 (EA9)	RobinRose (EG)	Kenzers (EB)	BaileyBlu (FP)
+Phroglets (Singleton)	0.0	1.4	1.4	0.0	0.0	1.7	0.0	1.5	1.6
+
+Phage	Rona (EB)	Snorlax (BD1)	Rooney (BN)	Mori (O)	Ohno789 (A1)	Triste (BD1)	Doobus (EB)	Leona (AS3)	SilverDipper (C1)
+Phroglets (Singleton)	1.6	0.0	0.0	0.0	1.4	0.0	1.6	0.0	0.0
+
+Phage	Murai (O)	HaveUMetTed (A3)	Chucky (BD1)	Forrest (BK1)	Pons (CT)	Aleemily (DZ)	Nadmeg (DJ)	EasyJones (C1)	Turret (C1)
+Phroglets (Singleton)	0.0	1.4	0.0	0.0	1.5	0.0	0.0	0.0	0.0
+
+Phage	ChisanaKitsune (DQ)	Tarkin (E)	Colbster (A3)	True (B1)	Freya (B1)	JeTaime (E)	BangNhom (A4)	Indra (A6)	LestyG (B3)
+Phroglets (Singleton)	0.0	1.2	1.4	1.3	1.3	0.0	1.4	1.3	1.3
+
+Phage	Phishy (DT)	Sanjuju (DE1)	Malibo (DW)	Mocha12 (CZ2)	Sedona (DE1)	Trumpet (CZ1)	Neobush (CZ1)	Posh (CY)	NancyRae (DI)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	DekHockey33 (A15)	Cafasso (DZ)	Whitney (DN1)	Sahara (CZ2)	Eradicator (F1)	Cher (B1)	Burr (B1)	Haunter (EF)	Blino (CV)
+Phroglets (Singleton)	1.3	0.0	0.0	0.0	0.0	1.3	1.3	0.0	0.0
+
+Phage	Austin (CS1)	Franklin22 (EB)	TinyMiny (EF)	Badulia (GE)	Gyzlar (A1)	Roksolana (A6)	Pimento (DI)	Ayotoya (DI)	DesireeRose (GE)
+Phroglets (Singleton)	0.0	1.5	0.0	0.0	1.4	1.3	0.0	0.0	0.0
+
+Phage	Micasa (A5)	Eaglepride (A10)	Phrancesco (EC)	Concrete (EE)	Yafa (EK2)	Erla (EA1)	Strathdee (EA1)	Amyev (AZ1)	Jehoshaphat (EG)
+Phroglets (Singleton)	1.4	1.4	0.0	0.0	1.7	1.6	1.6	1.6	1.3
+
+Phage	PineapplePluto (EK1)	Octopus (EE)	Aztec (EE)	BoomRoasted (EE)	Eraser (AZ1)	Rudy (EG)	Tomas (BE2)	Blab (EG)	Kaylissa (AZ1)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	1.5	1.3	0.0	1.3	1.5
+
+Phage	Phabia (EG)	CrunchyBoi (EK1)	LochMonster (A4)	Luna22 (Q)	Marsha (A1)	Katzastrophic (EB)	Parliament (A1)	Lars (B2)	Jarvi (K1)
+Phroglets (Singleton)	1.3	0.0	1.4	0.0	1.3	1.6	1.4	1.4	0.0
+
+Phage	Skylord (EB)	MeaningOfLife (K1)	Illumine (K1)	Rubeus (A1)	Pumbaa (A4)	Netyap (L2)	Gandalf20 (A1)	InvictusManeo (K5)	Filch (E)
+Phroglets (Singleton)	1.6	0.0	0.0	1.4	1.4	0.0	1.4	0.0	0.0
+
+Phage	StolenFromERC (E)	GlenHope (B3)	Marcie (EG)	Pokerus (K1)	Culver (CQ1)	BabyDotz (EG)	MilanaBonita (F1)	EhyElimayoE (BM)	STLscum (A1)
+Phroglets (Singleton)	1.2	1.3	0.0	0.0	0.0	1.3	0.0	0.0	1.3
+
+Phage	Karp (BK1)	Werner (BD1)	Hippo (BD1)	Lizz (BN)	Dwayne (BD1)	RedBear (BD1)	Belfort (BK1)	Jada (BK1)	MeganTheeKilla (BK1)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	ShiaSurprise (K1)	Phoebe (A3)	Smeagan (A2)	TaidaOne (BI1)	Stinson (K1)	TarsusIV (A2)	CroZenni (EB)	Sassafras (F1)	Timothy (A11)
+Phroglets (Singleton)	0.0	1.4	1.3	1.4	0.0	1.4	1.5	0.0	1.3
+
+Phage	Scout (A3)	Ulysses (A4)	WilliamStrong (EA6)	Trooper (A2)	Shocker (Singleton)	Wolfpack (EE)	Tokki (AU2)	SadLad (EG)	Fefferhead (K6)
+Phroglets (Singleton)	1.4	1.4	1.6	1.4	17.4	0.0	1.3	0.0	0.0
+
+Phage	Ellie (K6)	Dole (K1)	Durfee (K1)	CaseJules (K1)	Dignity (A2)	Blizzard (K1)	Burton (A1)	Devera (K1)	Boiiii (K1)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	1.3	0.0	1.4	0.0	0.0
+
+Phage	Asayake (K1)	Agape74 (A2)	BaghaKamala (K1)	MindFlayer (BE2)	Targaryen (BE1)	Yinz (B3)	Hydro (B4)	Hail (Q)	TelAviv (O)
+Phroglets (Singleton)	0.0	1.3	0.0	0.0	0.0	1.3	1.3	0.0	0.0
+
+Phage	Forge (Q)	Roney (DJ)	Sephiroth (DU1)	BruhMoment (AP3)	Mandlovu (F1)	Mova (F1)	Hlubikazi (F1)	Kauala (EA4)	ClearAsMud (EC)
+Phroglets (Singleton)	0.0	0.0	1.2	0.0	0.0	0.0	0.0	1.7	0.0
+
+Phage	BabyYoda (EB)	Stoor (EB)	ODay (DN)	Guey18 (DP)	Cashline (CY)	YungMoney (DC1)	BoyNamedSue (CZ1)	TuertoX (CZ2)	Luke (Q)
+Phroglets (Singleton)	1.6	1.6	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	Kozie (EI)	Hadrien (Q)	Platte (ED1)	MulchMansion (BE1)	Epsocamisio (A15)	RavenCo17 (CZ8)	Jambalaya (DC1)	HarveySr (B3)	Jojo24 (DY)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	0.0
+
+Phage	Bosnia (CZ1)	Gravaillia (Q)	Padpat (K1)	JorRay (G1)	Pulchra (EC)	DannyDe (EF)	ParleG (EA1)	FreddieHg (EF)	JRok (EE)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	1.6	0.0	0.0
+
+Phage	YertPhresh (EE)	Rasputia (GC)	Burritobowl (EB)	LittleFella (DG2)	Phinky (EG)	Thoth (D1)	Orcanus (AS1)	Quartz (EA10)	Chaser (L4)
+Phroglets (Singleton)	0.0	1.2	1.5	0.0	1.3	0.0	0.0	1.6	0.0
+
+Phage	Soul22 (F2)	Gail (A14)	Inchworm (B1)	Magic8 (B1)	Bri160 (EE)	Teehee (EG)	Faust (BK1)	Zenteno07 (B13)	StrawberryJamm (EG)
+Phroglets (Singleton)	0.0	1.3	1.3	1.3	0.0	1.3	0.0	1.3	1.3
+
+Phage	LilMartin (BE1)	Keanu (BQ)	Zeigle (BF)	Glamour (EA2)	Luxx (EE)	Cicada (EJ)	Quammi (EG)	Jahseh (EE)	Namago (EG)
+Phroglets (Singleton)	0.0	0.0	0.0	1.6	0.0	0.0	1.3	0.0	1.3
+
+Phage	Sicarius2 (AO2)	TinyTruffula (EE)	Livingwater (EE)	Ekhein (CS2)	GemG (CZ2)	Leafus (EA1)	Kurt1 (EA1)	Gill (DJ)	Aries55 (EE)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	1.6	1.6	0.0	0.0
+
+Phage	Kowalski (EC)	ZiggyZoo (CV)	Doggs (DB)	Delrey21 (DE4)	BlingBling (CV)	Bunker (DB)	Atuin (FC)	Paella (FK)	WildNOut (EA1)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.6
+
+Phage	NoodlelyBoi (EC)	Adriana (B1)	Pumpernickel (GD4)	Kittykat (AK)	Runhaar (DJ)	Trireme (EE)	Linetti (CS2)	Odyssey395 (AP2)	BigRedClifford (EA1)
+Phroglets (Singleton)	1.4	1.3	1.0	0.0	0.0	0.0	0.0	0.0	1.6
+
+Phage	TieDye (BI1)	Thiqqums (BI4)	Ronan (C1)	ClubPenguin (BI7)	TurkishDelight (Singleton)	CricKo (BI4)	Maya (BI1)	Jung (P1)	Galactica (BQ)
+Phroglets (Singleton)	1.4	0.0	0.0	0.0	0.0	0.0	1.4	0.0	0.0
+
+Phage	Phegasus (P1)	Martik (F1)	NiceHouse (CE)	Gubbabump (EA1)	Manu (A3)	Grif (A3)	Moosehead (CZ6)	Zhengyi (EK)	Yavru (FE)
+Phroglets (Singleton)	0.0	0.0	0.0	1.6	1.4	1.4	0.0	0.0	3.0
+
+Phage	DickRichards (EB)	SilentRX (AP4)	Reedo (AZ1)	Thorongil (EA1)	Lovelyunicorn (EA1)	Upyo (CD)	BBQValindra (DB)	RedWattleHog (DX)	Akhila (F1)
+Phroglets (Singleton)	1.6	0.0	1.6	1.6	1.6	1.5	0.0	0.0	0.0
+
+Phage	Rabbitrun (DU2)	Buttrmlkdreams (CT)	Orla (CT)	Charles1 (B1)	Zayuliv (EA5)	Miniwave (E)	Avocadoman (EB)	Beem (J)	Lulwa (B1)
+Phroglets (Singleton)	0.0	1.5	1.5	1.3	1.6	1.2	1.5	0.0	1.3
+
+Phage	DelaGarza (GF)	Lunatic (EE)	Jodelie19 (DJ)	Jenos (EA1)	Quenya (EB)	Phives (AZ1)	Brynnie (AS1)	Brunswick (AU1)	NathanVaag (AO1)
+Phroglets (Singleton)	0.0	0.0	0.0	1.6	1.6	1.5	0.0	0.0	0.0
+
+Phage	Jaygup (C1)	Ennea (CR3)	AloeVera (EK2)	Maxo (A4)	PhailMary (CA)	Tbone (AZ1)	Cheesecake (EE)	Xitlalli (EK1)	Twonlo (DE3)
+Phroglets (Singleton)	0.0	0.0	0.0	1.4	1.6	1.5	0.0	0.0	0.0
+
+Phage	SpeedDemon (DL)	Whiteclaw (CZ2)	Jablanski (CY)	Elezi (AZ1)	Ohgeesy (CZ)	Ramiel05 (EC)	Savannah (EC)	Mazun (EK2)	NovumRegina (CR2)
+Phroglets (Singleton)	1.1	0.0	0.0	1.6	0.0	0.0	0.0	1.7	0.0
+
+Phage	GrootJr (CR2)	Clawz (CP)	Taquarus (A4)	Blocker23 (B2)	Sedgewig (EA1)	McShie (EE)	Atraxi (EK2)	Jerky (EE)	Latch (C1)
+Phroglets (Singleton)	0.0	0.0	1.4	1.4	1.6	0.0	1.8	0.0	0.0
+
+Phage	Paries (DE1)	Magel (DJ)	Emma1919 (BK1)	Gervas (B3)	GardenState (EH)	Feastonyeet (CT)	Bluephacebaby (B1)	BigChungus (CT)	Camster (P1)
+Phroglets (Singleton)	0.0	0.0	0.0	1.3	1.5	1.5	1.3	1.5	0.0
+
+Phage	Jinkies (FL)	Rose5 (L1)	JimJam (BE2)	Bumble (FH)	Majesty (EE)	Jorgensen (A1)	Aelin (B1)	Tweety19 (AZ3)	Maru (B1)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	1.3	1.3	1.6	1.3
+
+Phage	VioletZ (B4)	BananaFence (C1)	Namsahir (EE)	Karate (EF)	Aesir (EF)	Persistence (AY)	RoyalG (CS2)	WonderBoy (AK)	NiebruSaylor (O)
+Phroglets (Singleton)	1.3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	SeaWolves (EE)	JoBros (EE)	Fede (EK2)	London (AZ1)	Barsten (DE1)	Engineer (CQ1)	Lilbeanie (DE5)	OhShagHennessy (L1)	KingCyrus (A2)
+Phroglets (Singleton)	0.0	0.0	1.8	1.5	0.0	0.0	0.0	0.0	1.4
+
+Phage	GoldenSpark (E)	Psycho (K5)	Wollypog (Singleton)	Sam12 (CS2)	Pippa (AO2)	GaeCeo (EA9)	BengiVuitton (A2)	Stormbreaker (EK1)	Truckee (AU5)
+Phroglets (Singleton)	1.2	0.0	0.0	0.0	0.0	1.7	2.7	0.0	0.0
+
+Phage	YorkOnyx (DE1)	Snekmaggedon (N)	Adumb2043 (AZ1)	Prairie (FH)	Phlop (DC1)	Sienna (DG1)	Casend (EG)	Matteo (CZ2)	Aziz (M2)
+Phroglets (Singleton)	0.0	0.0	1.5	0.0	0.0	0.0	1.3	0.0	0.0
+
+Phage	Estes (M2)	Love (DE1)	Chaph (A4)	EugeneKrabs (EK)	GourdThymes (CS2)	MrMiyagi (AC)	SuperCallie99 (A6)	JKSyngboy (DE1)	Heath (B4)
+Phroglets (Singleton)	0.0	0.0	1.4	0.0	0.0	0.0	1.4	0.0	1.4
+
+Phage	PainterBoy (A16)	MasterPo (B2)	Hitter (CV)	Azula (CV)	Archis (CV)	DirtyBoi (DB)	Archimedes (DA)	Diabla (CS2)	BiteSize (DG1)
+Phroglets (Singleton)	1.4	1.4	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	Amore2 (CS1)	Bunnybear (CZ)	Clown (DC2)	BelmontSKP (EB)	Winzigespinne (EA1)	QuadZero (EA5)	Selwyn23 (EC)	AnnaLie (EB)	Albright (EB)
+Phroglets (Singleton)	0.0	0.0	0.0	1.6	1.6	1.6	0.0	1.6	1.5
+
+Phage	Whytu (FE)	YesChef (AZ1)	Moonbeam (F1)	Abba (AO3)	BlueFeather (FE)	Sippinontea (EE)	Pabst (EK1)	Lahqtemish (EB)	Lego (AZ1)
+Phroglets (Singleton)	3.1	1.5	0.0	0.0	2.8	0.0	1.7	1.5	1.5
+
+Phage	BlueRugrat (EK1)	Rope (R)	Eklok (BP)	PhinkBoden (CQ1)	Scumberland (EC)	Zitch (DE4)	Beckerton (H1)	GoCrazy (AM)	Darby (AU1)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	Jubie (L3)	Hernandez44 (EE)	Bullzi2019 (EE)	PoRanda (EE)	Cross (BE1)	Vondra (BP)	Otwor (EE)	Battuta (BE2)	Ignacio (BP)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	Cumberbatch (BP)	Anderson (B1)	MuffinTheCat (GE)	PermaG (EJ)	MrWorldwide (EA1)	Topgun (A1)	TinaLin (CU1)	Rie18 (EF)	Rizwana (AP1)
+Phroglets (Singleton)	0.0	1.3	0.0	0.0	1.6	1.4	0.0	0.0	0.0
+
+Phage	TatarkaPM (EA1)	Thunderclap (AQ)	DirtJuice (B1)	BackyardAgain (C1)	Cece (GD3)	Slatt (B1)	SmellyB (A6)	Winget (O)	Telesworld (B1)
+Phroglets (Singleton)	1.6	2.8	1.3	0.0	1.0	1.3	1.3	0.0	1.3
+
+Phage	Suigeneris (B5)	Windsor (B1)	Quasimodo (C1)	Periodt (G1)	Unphazed (EK1)	Pherferi (EA1)	Pharky (EK2)	Phedro (EK2)	Phogo (EK1)
+Phroglets (Singleton)	1.3	1.3	0.0	0.0	0.0	1.6	1.7	1.7	0.0
+
+Phage	Phractured (EK2)	Kimbrough (B1)	Janiyra (C1)	Chaelin (B1)	BeeGee (CY)	ChaylaJr (C1)	Nobel (EE)	BeautPeep30 (EA1)	Truong (EK2)
+Phroglets (Singleton)	1.7	1.3	0.0	1.3	0.0	0.0	0.0	1.6	0.0
+
+Phage	Secretariat (DJ)	Mercedes (EA)	Lifes (GB)	Kelcole (EG)	Arete (EM1)	DroogsArmy (A7)	MScarn (CT)	Fizzles (EG)	Breezic (CS2)
+Phroglets (Singleton)	0.0	1.7	0.0	0.0	0.0	1.4	1.5	0.0	0.0
+
+Phage	OKaNui (A4)	Herod (CZ1)	Danno (EE)	MichaelScott (CZ4)	AvGardian (EB)	Rasovi (EJ)	Dre3 (CT)	Misfit (E)	Indigenous (BI1)
+Phroglets (Singleton)	1.4	0.0	0.0	0.0	1.6	0.0	1.6	1.2	1.4
+
+Phage	Bexan (A1)	PHTowN (BN)	Danforth (A8)	MaryBeth (A1)	ShakeNBake (BN)	Dryad (BN)	Jerm2 (A1)	Itza (BD6)	Nebulous (EA5)
+Phroglets (Singleton)	1.4	0.0	1.3	1.4	0.0	0.0	1.4	0.0	1.7
+
+Phage	Ixel (EA11)	Coco12 (F1)	Gandalph (F1)	Rebel (N)	Topanga (A10)	TZGordon (CU1)	Jamie19 (N)	Eponine (K4)	Raymond7 (N)
+Phroglets (Singleton)	1.7	0.0	0.0	0.0	1.5	0.0	0.0	0.0	0.0
+
+Phage	Chivey (EF)	NeumannU (EE)	Ashton (EK2)	John316 (CS2)	SonOfLevi (EA1)	EpicDab (DM)	LittleTokyo (AS2)	Giantsbane (AU2)	Powerpuff (AZ1)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	1.6	0.0	0.0	1.4	1.5
+
+Phage	Veteran (F1)	Phanphagia (F1)	Seabastian (F1)	TroyPia (A4)	Drake94 (A10)	Quesadilla (B9)	QuincyRose (K1)	Scamp (A4)	Twitch (K1)
+Phroglets (Singleton)	0.0	0.0	0.0	1.4	1.4	1.3	0.0	1.4	0.0
+
+Phage	Ruthiejr (K4)	Nutello (K1)	Piatt (K1)	Grub (A3)	Hyperbowlee (K1)	Langerak (P1)	Padfoot (K1)	Polymorphads (A4)	Peel (K1)
+Phroglets (Singleton)	0.0	0.0	0.0	1.4	0.0	0.0	0.0	1.4	0.0
+
+Phage	Juliette (K4)	Deano (A4)	Caviar (A3)	Ganymede (K1)	Klimt (EA1)	Chamuel (EA1)	Whatever (BD1)	Leaf (GC)	Dewdrop (GC)
+Phroglets (Singleton)	0.0	1.4	1.5	0.0	1.6	1.6	0.0	1.1	1.1
+
+Phage	Moab (BK1)	Urza (BD6)	Jayden (EC)	Matzah (EI)	MiniMac (L3)	Gina (EC)	Adolin (AZ1)	Wakanda (BK2)	Shifa (C1)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	1.5	0.0	0.0
+
+Phage	Ariadne (EC)	MaeLinda (EA1)	Squee (A1)	Muntaha (BK2)	FrodoSwaggins (BI1)	FidgetOrca (BI1)	StrongArm (A1)	Bazzle (L2)	Renzie (EA1)
+Phroglets (Singleton)	0.0	1.6	1.4	0.0	0.0	1.4	1.4	0.0	1.6
+
+Phage	VC3 (A2)	YuuY (EA10)	Lynlen (EB)	VA6 (A2)	ANI8 (A2)	D32 (A2)	JF2 (A3)	JF4 (A3)	MK4 (A3)
+Phroglets (Singleton)	1.4	1.6	1.5	2.7	1.4	1.4	1.5	1.5	1.5
+
+Phage	AN9 (A2)	JF1 (K4)	AN3 (A2)	Hubbs (ED1)	RubyRalph (EG)	Shoya (FB)	Pringar (S)	IAmGroot (EH)	DrSierra (AZ1)
+Phroglets (Singleton)	1.4	0.0	2.7	0.0	1.3	0.0	0.0	1.5	1.6
+
+Phage	DumpsterDude (DW)	MA5 (A3)	Boilgate (K8)	StephanieG (C1)	OhMyWard (DJ)	CherryonLim (CT)	Zepp (EA5)	Alakazam (EA5)	Megan (EC)
+Phroglets (Singleton)	0.0	1.4	0.0	0.0	0.0	1.5	1.6	1.7	0.0
+
+Phage	Herbertwm (A2)	MiniLon (L3)	Indlulamithi (AC)	Smarties (EC)	Mariokart (DR)	BGlluviae (K1)	Donkeykong (F1)	Pinkcreek (C1)	HarryOW (A1)
+Phroglets (Singleton)	1.4	0.0	0.0	0.0	1.4	0.0	0.0	0.0	1.4
+
+Phage	Peeb (G1)	Vanisius (EE)	Burnsey (CT)	Alyxandracam (EA1)	AbsoluteMadLad (B1)	Mangeria (C1)	Keitabear (DE1)	Kewpiedoll (DE1)	MinecraftSteve (A15)
+Phroglets (Singleton)	0.0	0.0	1.5	1.6	1.3	0.0	0.0	0.0	2.7
+
+Phage	Beemo (A9)	Gisselle (AK)	Grekaycon (AO2)	Kumotta (FB)	MamaPearl (AK)	DevitoJr (AU1)	Trustiboi (AU1)	CastorTray (AU1)	Imvubu (B10)
+Phroglets (Singleton)	1.3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.3
+
+Phage	Whitty (T)	Harella (E)	Magpie (B4)	IdentityCrisis (Singleton)	Cintron (A4)	Tyrumbra (EC)	Noelle (A4)	Mdavu (K1)	Beuffert (BK1)
+Phroglets (Singleton)	1.7	1.2	1.4	0.0	1.4	0.0	1.4	0.0	0.0
+
+Phage	RogerDodger (DC1)	Sleepyhead (Singleton)	King2 (AO1)	Den3 (EA1)	Velene (EA1)	Scrunchy (EE)	Azizam (EE)	AnClar (DR)	Celaena (EB)
+Phroglets (Singleton)	0.0	0.0	0.0	1.6	1.6	0.0	0.0	1.4	1.6
+
+Phage	AppleCider (AK)	LilStuart (AK)	PhillyPhilly (ED1)	Vibaki (FL)	Stormageddon (DX)	Phettuccine (BD1)	Saftant (BD3)	Zuko (BR)	Kardashian (BI6)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.3	0.0
+
+Phage	Issmi (BD2)	Bmoc (BE1)	SansAfet (EB)	Doomphist (F1)	Kuleana (AS2)	Mischief19 (BG)	LastJedi (F1)	Malthus (K4)	Prickles (B1)
+Phroglets (Singleton)	0.0	0.0	1.5	0.0	0.0	0.0	0.0	0.0	1.3
+
+Phage	Ciel (EE)	Lederberg (EP)	Lewan (L2)	Heathen (A3)	ChickenKing (EA9)	BadStone (E)	Benjalauren (EA1)	Shida (O)	Antares (EC)
+Phroglets (Singleton)	0.0	0.0	0.0	1.4	1.7	1.2	1.6	0.0	0.0
+
+Phage	EnalisNailo (CY1)	BaconJack (A1)	Wocket (CV)	Faith5x5 (CZ6)	BubbaBear (EB)	McGalleon (EA1)	JasperJr (CV)	Schnauzer (N)	Suerte (CZ4)
+Phroglets (Singleton)	0.0	1.3	0.0	0.0	1.6	1.6	0.0	0.0	0.0
+
+Phage	Ioannes (EA1)	Hiddenleaf (EF)	Clancy (EA1)	Rachella (EF)	Oxtober96 (EA1)	LilyLou (EK1)	Avazak (DJ)	IchabodCrane (BE2)	Giuseppe (D1)
+Phroglets (Singleton)	1.6	0.0	1.6	0.0	1.6	0.0	0.0	0.0	0.0
+
+Phage	Forthebois (BO)	RemusLoopin (BB2)	JPickles (C1)	Heather (BB2)	Kela (BM)	Geostin (BF)	Fabian (BF)	RosaAsantewaa (BI2)	PherryCruz (BI2)
+Phroglets (Singleton)	0.0	1.7	0.0	1.7	0.0	0.0	0.0	0.0	0.0
+
+Phage	Gabriela (L2)	Itos (L2)	JoieB (S)	WaterT (GB)	Qui (FK)	LeeroyJenkins (GB)	HarperAnne (EE)	Meibysrarus (BI1)	GirlPower (BI1)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	1.0	0.0	0.0	1.4	0.0
+
+Phage	TuanPN (BD1)	CherryBlossom (BI1)	Yasdnil (BD1)	Axym (CT)	Intolerant (BH)	QueenHazel (I1)	Xula (I1)	StAnnes (F1)	Leviticus (BD1)
+Phroglets (Singleton)	0.0	1.4	0.0	1.5	0.0	0.0	0.0	0.0	0.0
+
+Phage	Verity (DE4)	Belthelas (EE)	Hoshi (BI1)	Lupine (ED1)	Jaylociraptor (BI1)	Zipp (DE4)	Rusticus (BD1)	Animus (BD2)	Linus (AR)
+Phroglets (Singleton)	0.0	0.0	1.4	0.0	1.4	0.0	0.0	0.0	0.0
+
+Phage	RoadKill (DE3)	HannahD (DB)	Tayonia (CZ1)	Sidious (CZ7)	ReMo (A15)	Gator (E)	Aneem (A11)	Zameen (CZ1)	SweatNTears (CT)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	1.3	1.2	1.3	0.0	1.5
+
+Phage	Ziko (DP)	Schwartz33 (DJ)	Galadriel (DE1)	Yakult (CT)	Jabberwocky (DE1)	Charming (DE1)	Whack (Singleton)	Teal (CS3)	MagicMan (DB)
+Phroglets (Singleton)	0.0	0.0	0.0	1.5	0.0	0.0	0.0	0.0	0.0
+
+Phage	Trax (DU2)	Bakery (DC1)	Newt (CS3)	McKinley (DE1)	Haley23 (CZ2)	Araceli (BH)	NihilNomen (J)	SteamedHams (CT)	PauloDiaboli (GD1)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.6	1.0
+
+Phage	Carlyle (A1)	Nike (EG)	PhriedRice (EK2)	TeddyBoy (EE)	KilKor (P1)	Alex44 (EK1)	Kardesai (AM)	Blinn1 (A6)	EstebanJulior (AK)
+Phroglets (Singleton)	1.4	1.3	1.7	0.0	0.0	0.0	0.0	1.3	0.0
+
+Phage	Lucyedi (A16)	Duggie (B1)	Nucci (EA10)	Hocus (B1)	Owens (EE)	Blessica (O)	Evy (BE1)	Finnry (L3)	Warren (GA)
+Phroglets (Singleton)	1.4	1.3	1.6	1.3	0.0	0.0	0.0	0.0	0.0
+
+Phage	Sucha (EJ)	Lolalove (B4)	Braelyn (BE1)	Daubenski (BE1)	Esketit (BI1)	Keelan (DP)	Zanella (EJ)	Syleon (DU1)	Slentz (EE)
+Phroglets (Singleton)	0.0	1.3	0.0	0.0	1.4	0.0	0.0	1.2	0.0
+
+Phage	Stanktossa (EA1)	Tempo (EG)	Roman (ED1)	Dothraki (EA1)	DirtyBubble (EB)	BonesMcCoy (EA1)	Shee (EA1)	Bordeaux (BE2)	Soshi (BI1)
+Phroglets (Singleton)	1.6	0.0	0.0	1.6	1.6	1.6	1.6	0.0	0.0
+
+Phage	FuzzBuster (Singleton)	HanSolo (EA1)	Rita1961 (B3)	CactusJack (P1)	Megiddo (P1)	StressBall (P1)	Phalm (P1)	Obutu (B3)	Mayweather (CT)
+Phroglets (Singleton)	0.0	1.6	1.3	0.0	0.0	0.0	0.0	1.3	1.5
+
+Phage	Kenosha (DJ)	Techage (P1)	Boopy (DS)	Xenomorph (AM)	DreamTeam (AK)	NapoleonB (AM)	Araxxi (EM1)	Camri (G1)	Bradley2 (EE)
+Phroglets (Singleton)	0.0	0.0	1.1	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	Sharkboy (EB)	NHagos (DR)	Chikenjars (DJ)	Jiminy (B1)	Madeline (CZ1)	Abinghost (B3)	Trinitium (C1)	Onyinye (AE)	Philly (B3)
+Phroglets (Singleton)	1.6	1.4	0.0	1.3	0.0	1.3	0.0	0.0	1.3
+
+Phage	Boehler (B1)	XianYue (A2)	Skippy (B1)	Krili (O)	SynergyX (B3)	Paphu (A1)	Zolita (A5)	Makai (AU5)	Finny (EA2)
+Phroglets (Singleton)	1.3	1.4	1.3	0.0	1.3	1.4	1.4	0.0	1.7
+
+Phage	Gibbous (CT)	Doug (F1)	Bananafish (B2)	NarutoRun (EF)	Jonghyun (G1)	Anakin (EF)	TyDawg (M1)	YoungMoneyMata (C1)	MCubed (EA2)
+Phroglets (Singleton)	1.6	0.0	1.4	0.0	0.0	0.0	0.0	0.0	1.6
+
+Phage	Kboogie (C1)	TinSulphur (EA1)	PrincePhergus (EA4)	MillyPhilly (EA1)	Dallas (J)	Delton (D1)	Jellybones (CS2)	Riyhil (EA1)	Phriends (EA1)
+Phroglets (Singleton)	0.0	1.6	1.7	1.6	0.0	0.0	0.0	1.6	1.6
+
+Phage	Pherbot (EA4)	Sixama (DS)	Blackbrain (C1)	Zada (EA1)	Cactojaque (C1)	Wesak (EK1)	Kaijohn (EE)	Etta (EA1)	PiperSansNom (EC)
+Phroglets (Singleton)	1.7	1.1	0.0	1.6	0.0	0.0	0.0	1.6	0.0
+
+Phage	Greys (EA1)	DizzyRudy (EL)	MintFen (CV)	Ewald (DT)	Stromboli (EB)	Marteena (CY1)	Kuwabara (DN4)	Luker (CS3)	Sekhmet (CZ4)
+Phroglets (Singleton)	1.6	0.0	0.0	0.0	1.6	0.0	0.0	0.0	0.0
+
+Phage	Tomaszewski (E)	Bustleton (EA4)	Mashley (EG)	Stiles (EP)	Adelaide (EP)	Yeet (J)	Bran (EP)	LolaVinca (C1)	Dina (EP)
+Phroglets (Singleton)	1.2	1.7	1.3	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	Hulk (EE)	Flypotenuse (E)	Benvolio (A2)	Mithril (B4)	Vitas (EB)	Inky (K1)	Necropolis (P1)	Spock (K1)	PetterN (A5)
+Phroglets (Singleton)	0.0	1.2	1.4	1.4	1.6	0.0	0.0	0.0	2.7
+
+Phage	Wigglewiggle (L2)	NadineRae (CR4)	LaviMo (EE)	Piperis (EC)	Rhysand (EE)	MonChoix (EA1)	SheckWes (CT)	Celia (BD6)	Limpid (BK1)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	1.6	1.5	0.0	0.0
+
+Phage	Beaver (CS2)	TimoTea (EE)	Akoni (EK2)	GrandSlam (DI)	Candle (R)	Sumter (A1)	Kipper29 (A6)	Mcshane (B1)	Apex (B4)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	1.4	1.3	1.3	1.3
+
+Phage	Penelope2018 (D1)	Guwapp (C1)	Blexus (F1)	Juice456 (F1)	Kenuha5 (F1)	DirkDirk (L1)	Atcoo (P1)	CRB2 (B9)	Strokeseat (F1)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.3	0.0
+
+Phage	ThulaThula (P5)	ArMaWen (EK1)	Scuttle (AK)	Raela (S)	Antonia (B1)	Arby (AN)	Ajay (A1)	Colleen (EO)	Cressida (EI)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	1.3	0.0	1.4	0.0	0.0
+
+Phage	Modragons (F1)	Indlovu (B11)	BirdsNest (B13)	Cinna (EI)	Amelia (AS2)	AndPeggy (CT)	Teamocil (EC)	Lauer (CT)	Powerball (CZ4)
+Phroglets (Singleton)	0.0	1.4	1.3	0.0	0.0	1.6	0.0	1.6	1.5
+
+Phage	Yarn (CT)	Ranch (DV)	Naby (EE)	Arroyo (EB)	Busephilis (EC)	RedRaider77 (S)	DrLupo (H2)	Emiris (B1)	PinkPlastic (A1)
+Phroglets (Singleton)	1.6	0.0	0.0	1.5	0.0	0.0	0.0	1.3	1.4
+
+Phage	Genie2 (BE2)	Nebs (A4)	Rajelicia (A1)	BoomerJR (BE2)	Phontbonne (A4)	Keziacharles14 (A9)	Mercurio (G4)	Euratis (BB1)	Vash (BB1)
+Phroglets (Singleton)	0.0	1.4	1.4	0.0	1.4	1.4	0.0	1.7	1.8
+
+Phage	Lilbooboo (BB1)	Goodman (EJ)	ManRay (EA1)	Christoph (EA1)	Pocket (EA1)	MelBins (DE2)	Sukkupi (CR4)	Yndexa (CR4)	Vorrps (O)
+Phroglets (Singleton)	1.7	0.0	1.6	1.6	1.6	0.0	0.0	0.0	0.0
+
+Phage	Yuna (K6)	Ekdilam (K6)	Theresita (EA7)	TinyTimothy (EK1)	Chepli (EA6)	Smurph (N)	Stickynote (EN)	ShrimpFriedEgg (N)	Orange (A11)
+Phroglets (Singleton)	0.0	0.0	1.7	0.0	1.6	0.0	0.0	0.0	1.3
+
+Phage	Carthage (B1)	Gilgamesh (Singleton)	Grungle (C1)	LilSpotty (Singleton)	Beelzebub (S)	JacoRen57 (AB)	Anthony (A20)	Vanisoa (A9)	Cleo (CT)
+Phroglets (Singleton)	1.3	0.0	0.0	0.0	0.0	1.5	2.8	2.7	1.6
+
+Phage	Yikes (DV)	GretelLyn (DV)	Sadboi (DV)	Lambo (DV)	DobbysSock (CZ4)	Tourach (L2)	Dorito (CZ4)	Untouchable (DJ)	Twinkle (CZ4)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	Lemuria (G4)	Maminiaina (A9)	Sinatra (EA4)	Crocheter (DJ)	Antsirabe (G5)	BogosyJay (A9)	Curiosium (K1)	Margaery (EI)	Gray (DQ)
+Phroglets (Singleton)	0.0	1.3	1.7	0.0	0.0	1.3	0.0	0.0	0.0
+
+Phage	Gibbin (DV)	StAB (EP)	Robyn (B1)	Fancypants (F1)	Toaka (A9)	Arissanae (A9)	MalagasyRose (AG)	Matalotodo (B1)	PSullivan (A1)
+Phroglets (Singleton)	0.0	0.0	1.3	0.0	2.7	1.4	0.0	1.3	1.4
+
+Phage	Eugenia (B1)	Mowgli (G1)	Plagueis (G1)	SwissCheese (A1)	BigMau (A1)	Moose (A1)	Rohr (A1)	Shelob (C1)	Johann (EJ)
+Phroglets (Singleton)	1.3	0.0	0.0	1.4	1.4	1.4	1.4	0.0	0.0
+
+Phage	Armstrong (EB)	Rollins (EB)	Schubert (EA8)	Maria1952 (AK)	Nubi (DC1)	Elephantoon (A9)	Coltrane (EB)	Eish (F1)	Gershwin (EA1)
+Phroglets (Singleton)	1.6	1.6	1.7	0.0	0.0	1.3	1.6	0.0	1.6
+
+Phage	Troy (EP)	Brahms (EB)	Bernstein (EB)	Homines (A1)	Thonko (B8)	Calix (EA1)	Lorde (F1)	Enby (F1)	MaryV (V)
+Phroglets (Singleton)	0.0	1.6	1.6	1.4	1.3	1.6	0.0	0.0	1.2
+
+Phage	Kalnoky (A3)	HanKaySha (E)	Cici (A4)	Marius (A3)	Moldemort (E)	Lilizi (E)	Malec (A2)	HenryJackson (B1)	ChotaBhai (E)
+Phroglets (Singleton)	1.4	0.0	1.4	1.4	0.0	0.0	1.4	1.3	1.2
+
+Phage	DoctorDiddles (E)	Waleliano (B4)	Terij (EI)	MrGloopy (AK)	Hank144 (BD2)	Darolandstone (BC2)	OneinaGillian (EG)	KaiHaiDragon (EC)	Suzy (DG1)
+Phroglets (Singleton)	1.2	1.3	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	CloverMinnie (DR)	BigPaolini (A1)	EMsquaredA (CY1)	Reptar3000 (K4)	Cepens (W)	Gibbles (CX)	Efeko (EE)	VitulaEligans (EE)	ValentiniPuff (Singleton)
+Phroglets (Singleton)	1.4	1.4	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	Jacko (ED1)	Peas (FA)	Teutsch (BE1)	Eden (EB)	KayPaulus (EE)	Isca (A3)	Bradissa (CY1)	TouchMeNot (EO)	Neville (DU2)
+Phroglets (Singleton)	0.0	1.6	0.0	1.5	0.0	1.4	0.0	0.0	0.0
+
+Phage	Scamander (EE)	RoMag (C1)	Bones (A1)	Sauce (C1)	Helpful (D1)	Snazzy (A1)	Beaglebox (B1)	WheeHeim (BO)	TillyBobJoe (DC1)
+Phroglets (Singleton)	0.0	0.0	1.4	0.0	0.0	1.4	1.3	0.0	0.0
+
+Phage	Dogfish (DT)	Maridalia (CZ1)	Catfish (CU5)	LilMcDreamy (B12)	MarkPhew (K1)	Chris (K1)	Bryler (K6)	Jeeves (A14)	Marshawn (K6)
+Phroglets (Singleton)	0.0	0.0	0.0	1.3	0.0	0.0	0.0	1.3	1.4
+
+Phage	LoneWolf (A9)	Iwokeuplikedis (A2)	Andromedas (EA2)	ColaCorta (EA2)	Neferthena (EA5)	PumpkinSpice (BE2)	Yaboi (BE2)	Kradal (BM)	Gilson (BK1)
+Phroglets (Singleton)	2.7	1.3	1.6	1.6	1.6	0.0	0.0	0.0	0.0
+
+Phage	Circinus (BK2)	Hiyaa (BQ)	Rabinovish (C1)	Kromp (Singleton)	DMoney (G1)	Aledel (AK)	Nancia (AK)	Carpal (AK)	DanielleIgnace (AT)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	Mordred (AR)	Wawa (AK)	Eunoia (AK)	Potatoes (AK)	Idaho (FE)	Pterodactyl (AK)	Riovina (AK)	Lasagna (AK)	Riverdale (AK)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	CristinaYang (AK)	Bodacious (AK)	HeadNerd (AK)	Beethoven (AK)	LouisXIV (AN)	ChewChew (AK)	Tydolla (B3)	Patt (K4)	Watermelon (A1)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	1.3	0.0	1.4
+
+Phage	Phreeze (H1)	FlowerPower (BF)	Cracklewink (Y)	Microdon (BH)	SendItCS (BI4)	Burro (EM1)	Martin (EA1)	Teagan (EA1)	Oats (EA1)
+Phroglets (Singleton)	0.0	0.0	1.2	0.0	0.0	0.0	1.6	1.6	1.6
+
+Phage	ThetaBob (F4)	Zalkecks (C1)	Lephleur (B2)	Ochi17 (F1)	ValleyTerrace (C1)	Ugenie5 (A9)	Kamryn (C1)	Datway (A4)	Amochick (Q)
+Phroglets (Singleton)	0.0	0.0	1.4	0.0	0.0	1.4	0.0	1.4	0.0
+
+Phage	MadMarie (A3)	Schmidt (CU4)	Noella (A3)	Rahel (C1)	Alleb (ED1)	TomSawyer (BE2)	Wipeout (BE2)	Fireman (EC)	KidneyBean (CR2)
+Phroglets (Singleton)	1.4	0.0	1.4	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	WhoseManz (CR4)	BrutonGaster (CQ2)	Magnar (A1)	Halena (L1)	Kahve (B1)	Childish (B1)	Sandalphon (F1)	Solosis (B1)	Priya (A9)
+Phroglets (Singleton)	0.0	0.0	1.4	0.0	1.3	1.3	0.0	1.3	1.3
+
+Phage	Emmina (E)	Phaded (A2)	Kroos (DE1)	Steamy (A12)	Gorge (F1)	LastResort (A15)	Acolyte (A2)	Tanis (DJ)	Aminay (K7)
+Phroglets (Singleton)	1.2	1.4	0.0	1.4	0.0	1.3	1.4	0.0	0.0
+
+Phage	Frokostdame (CV)	Papafritta (EA1)	Schnapsidee (EA1)	Sansa (EA2)	Sombrero (CS2)	Marley1013 (B3)	Morty007 (B3)	Bread (C1)	FudgeTart (C1)
+Phroglets (Singleton)	0.0	1.6	1.6	1.6	0.0	1.3	1.3	0.0	0.0
+
+Phage	Poenanya (F1)	KlimbOn (B1)	Dardanus (CU3)	Tenno (AU1)	Duffington (DJ)	Rickmore (DJ)	BreSam8 (A3)	Bluefalcon (A5)	Rabbs (G1)
+Phroglets (Singleton)	0.0	1.3	0.0	0.0	0.0	0.0	1.4	1.4	0.0
+
+Phage	Lollipop1437 (CR3)	Pollywog (F1)	Houdini22 (A4)	Avle17 (A4)	NotAPhaseMom (A4)	Chewbacca (N)	Riparian (R)	Ohfah (A4)	BodEinwohner17 (F1)
+Phroglets (Singleton)	0.0	0.0	1.4	1.4	1.4	0.0	0.0	1.4	0.0
+
+Phage	PinheadLarry (B1)	Argie (W)	Adora (CZ4)	Shuman (CA)	Miramae (A4)	Vasanti (CZ2)	DreamTeam1 (A9)	Ejimix (J)	Myrale (E)
+Phroglets (Singleton)	1.3	0.0	0.0	1.6	1.4	0.0	1.4	0.0	1.2
+
+Phage	Tubs (A9)	Hello (CS3)	Paschalis (EC)	Lyell (ED2)	Opie (DB)	Quaker (EE)	Spooky (DN2)	Tatanka (AU1)	Fork (ED2)
+Phroglets (Singleton)	1.3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	NothingSpecial (A2)	Nedarya (A15)	Yokurt (A6)	Gaea (DE1)	Easley (CZ4)	Marietta (CR4)	Pollux (CY1)	Latretium (F1)	Xavia (P3)
+Phroglets (Singleton)	1.4	1.3	1.3	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	Bromden (L4)	NormanBulbieJr (F1)	ByChance (F1)	Foxboro (CR2)	Clifton (F1)	Sonali (FG)	Pmask (A6)	Miaurora (EE)	Fury (CR5)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	1.3	0.0	0.0
+
+Phage	Francis47 (A1)	Pleakley (CR5)	Crespo (G1)	Dietrick (C1)	ExplosioNervosa (A9)	CicholasNage (L1)	Willsammy (P1)	Bombshell (A4)	Darko (C1)
+Phroglets (Singleton)	1.4	0.0	0.0	0.0	1.4	0.0	0.0	1.4	0.0
+
+Phage	Glaske (P1)	Elesar (FF)	Fowlmouth (AC)	Reindeer (M1)	Hangman (B4)	Tyson (L1)	Thyatira (K5)	JakeO (B1)	Phoebus (J)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	1.3	0.0	0.0	1.3	0.0
+
+Phage	Gilda (EF)	Minima (EE)	Megamind (C1)	Vaticameos (B1)	JoeyJr (F1)	PHappiness (F1)	Nimbo (F1)	InigoMontoya (C1)	MichaelPhcott (B1)
+Phroglets (Singleton)	0.0	0.0	0.0	1.3	0.0	0.0	0.0	0.0	1.3
+
+Phage	QuickMath (F1)	Phlegm (C1)	West99 (B2)	Olga (G1)	Mecca (B1)	Samaymay (B1)	Omniscient (B1)	SamW (EP)	Naija (C1)
+Phroglets (Singleton)	0.0	0.0	1.4	0.0	1.3	1.3	1.3	0.0	0.0
+
+Phage	SchoolBus (O)	Bonray (C1)	Juicebox (Singleton)	Naji (A2)	MPhalcon (E)	JustHall (C1)	Burrough (C1)	DeepSoil15 (Q)	QueenBeane (B1)
+Phroglets (Singleton)	0.0	0.0	0.0	1.4	1.2	0.0	0.0	0.0	1.3
+
+Phage	CamL (B1)	Basquiat (C1)	Bishoperium (B1)	Fludd (C1)	Chargie21 (C1)	Noelani (EE)	Nivrat (F1)	LilMoolah (F1)	BoostSeason (K2)
+Phroglets (Singleton)	1.3	0.0	1.3	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	Burwell21 (F1)	Lizziana (F1)	Arri (DC1)	Denise (CZ5)	Octobien14 (DU1)	Volt (DP)	Odesza (DJ)	Leonard (DE2)	Wamburgrxpress (L1)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	1.2	0.0	0.0	0.0	0.0
+
+Phage	HSavage (B1)	Mcklovin (CZ4)	IDyn (CR4)	Doddsville (B1)	HotFries (BI2)	RavenPuff (BI2)	Rainydai (BI4)	Moozy (BI2)	Corazon (S)
+Phroglets (Singleton)	1.3	0.0	0.0	1.3	0.0	0.0	0.0	0.0	0.0
+
+Phage	Gancho (Q)	KeaneyLin (AM)	Constella (J)	Fernando (A3)	MargaretKali (FB)	MediumFry (AU4)	Daiboju (AK)	LazerLemon (BH)	EGole (BE1)
+Phroglets (Singleton)	0.0	0.0	0.0	1.4	0.0	1.4	0.0	0.0	0.0
+
+Phage	Amataga (C1)	Wofford (BE2)	LukeCage (BE2)	Rando14 (K5)	Starbow (BE2)	Gibson (BN)	Rhynn (A1)	Brylie (DI)	Bizzy (DE1)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	1.4	0.0	0.0
+
+Phage	Cane17 (C1)	Pita2 (A1)	Ali17 (DE2)	Arlo (A1)	Ryadel (O)	GodPhather (W)	NatB6 (CR2)	Margaret (CT)	Ruthy (DW)
+Phroglets (Singleton)	0.0	1.4	0.0	1.3	0.0	0.0	0.0	1.5	0.0
+
+Phage	Ribeye (DE1)	SketchMex (CT)	DelRio (DI)	Mellie (CV)	Samba (CV)	Lilas (CY1)	Squiddly (DN2)	DrFeelGood (A1)	Salz (A11)
+Phroglets (Singleton)	0.0	1.6	0.0	0.0	0.0	0.0	0.0	1.4	1.3
+
+Phage	Darionha (G1)	MissDaisy (K4)	Convict (EA1)	Musetta (ED2)	Dongwon (EE)	Guntur (AN)	Jackstina (B3)	Begonia (CV)	Mulch (DI)
+Phroglets (Singleton)	0.0	0.0	1.6	0.0	0.0	0.0	1.3	0.0	0.0
+
+Phage	Salacia (C1)	Zelink (J)	EleanorGeorge (F1)	Gophee (B1)	Spikelee (F1)	Golden (EA4)	Lucky3 (EA4)	Clark (CZ4)	Balsa (EA1)
+Phroglets (Singleton)	0.0	0.0	0.0	1.3	0.0	1.7	1.7	0.0	1.6
+
+Phage	Lilbit (S)	Hexamo (A6)	VasuNzinga (S)	RagingRooster (B3)	Renaud18 (F4)	FirstPlacePfu (P1)	Zilizebeth (P1)	Inspire2 (AN)	Hunnie (AN)
+Phroglets (Singleton)	0.0	1.3	0.0	1.3	0.0	0.0	0.0	0.0	0.0
+
+Phage	Ronnie (AN)	Kimchi1738 (EN)	Gargoyle (EA1)	TripleJ (FJ)	Nagem (EA1)	Stayer (AW)	Gudmit (Singleton)	Nandita (FF)	Elva (EB)
+Phroglets (Singleton)	0.0	0.0	1.6	0.0	1.6	1.4	0.0	0.0	1.5
+
+Phage	Etna (EA1)	Butterball (CS2)	Noely (FE)	Isolde (AY)	JuJu (CV)	Affeca (DE1)	Phusco (C1)	Bridgette (FA)	Guillaume (CS3)
+Phroglets (Singleton)	1.6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	Toast (CV)	Pipp (CV)	Floof (EH)	Geodirt (DE1)	Dewayne (AN)	CGermain (AN)	Nattles (EA1)	Lunar (AS2)	Constance (FA)
+Phroglets (Singleton)	0.0	0.0	1.4	0.0	0.0	0.0	1.6	0.0	0.0
+
+Phage	Ryan (FF)	Koji (EA4)	Racecar (FC)	Kepler (AS2)	Mendel (FD)	Raccoon (EA1)	Polka (AS2)	Sour (DR)	Count (EL)
+Phroglets (Singleton)	0.0	1.7	2.0	0.0	0.0	1.6	0.0	1.5	0.0
+
+Phage	Camille (EL)	Corgi (FE)	Auxilium (AY)	DrManhattan (AZ1)	Mimi (FC)	Yang (AZ1)	Maja (FO)	Haizum (BD2)	Fenn (A1)
+Phroglets (Singleton)	0.0	0.0	0.0	1.5	2.0	1.6	0.0	0.0	1.3
+
+Phage	Naira (A1)	Dulcie (A1)	Pajaza (EA3)	Thestral (BD2)	Eileen (FA)	Seahorse (AY)	Coral (AS2)	Nina (CT)	Morrissey (CD)
+Phroglets (Singleton)	1.3	1.4	1.7	0.0	0.0	0.0	0.0	1.5	1.6
+
+Phage	Quasar (CT)	Judy (FA)	Anjali (FD)	Pivoine (C1)	Podrick (B1)	Hestia (AY)	Adaia (AX)	Sputnik (AX)	Atraxa (AX)
+Phroglets (Singleton)	1.5	0.0	0.0	0.0	1.3	0.0	0.0	0.0	0.0
+
+Phage	Richie (AY)	Faja (AY)	Egad (AW)	Wentworth (BN)	Maureen (AZ2)	Sitar (DE1)	Silverleaf (L1)	Fulbright (N)	Ibrahim (T)
+Phroglets (Singleton)	0.0	0.0	1.4	0.0	1.5	0.0	0.0	0.0	1.6
+
+Phage	AlexAdler (EA1)	Shiba (AW)	Liebe (AZ2)	Salk (AW)	Michelle (AW)	Ingrid (AU3)	Loretta (AU3)	Sporto (AW)	StarLord (AW)
+Phroglets (Singleton)	1.6	1.4	1.5	1.4	1.4	0.0	0.0	2.8	1.4
+
+Phage	Shepard (AU2)	Gustav (CD)	Beagle (AP2)	Cote (AS2)	Tenda (EA1)	Andrew (AS3)	Deby (K1)	LaterM (K1)	Cborch11 (H1)
+Phroglets (Singleton)	0.0	1.5	0.0	0.0	1.6	0.0	0.0	0.0	0.0
+
+Phage	Melons (AS2)	Daob (AS2)	Kumao (Singleton)	StingRay (EA1)	Casey (EA3)	Pikmin (EA3)	Peep (EA1)	Parmesanjohn (N)	OzzyJ (BD1)
+Phroglets (Singleton)	0.0	0.0	1.3	1.6	1.7	1.7	1.6	0.0	0.0
+
+Phage	JustBecause (BM)	Aubergine (EA1)	Kale (EA1)	Ludgate (EA1)	Kieran (EB)	Espinosa (EA1)	Breylor17 (AU1)	Sergei (AK)	Herb (AK)
+Phroglets (Singleton)	0.0	1.6	1.6	1.6	1.6	1.6	0.0	0.0	0.0
+
+Phage	KingBob (AK)	Brad (AV)	Synepsis (AU1)	Thumb (H1)	Paola (K5)	AltPhacts (B1)	Indigo (BD1)	Salete (BG)	Nerdos (BD1)
+Phroglets (Singleton)	0.0	42.8	0.0	0.0	0.0	1.3	0.0	0.0	0.0
+
+Phage	HaugeAnator (BF)	SparkleGoddess (BK1)	StarPlatinum (BE2)	Bovely (BD1)	Comrade (BK1)	Romero (BF)	LibertyBell (BI3)	Percastrophe (BF)	ToriToki (BF)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	ZooBear (BF)	Beenie (CZ4)	Eddasa (BD1)	BayC (BG)	Copper (AN)	Azathoth (AN)	Nesbitt (BL)	Roots515 (C1)	Sibs6 (A1)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	1.7	0.0	1.4
+
+Phage	Tangerine (DE1)	OfUltron (F1)	Magsby (N)	Mahavrat (F1)	JEGGS (AM)	SpongeBob (N)	Munch (A11)	Bowtie (A11)	Bud (A11)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	1.3	1.4	1.4
+
+Phage	Beezoo (K1)	PherrisBueller (A1)	AbbysRanger (A4)	CentreCat (A4)	Daegal (Q)	Bartimeaus (A4)	Attoomi (Singleton)	Beatrix (A1)	Omar (BD2)
+Phroglets (Singleton)	0.0	1.4	1.4	1.4	0.0	1.4	1.8	1.4	0.0
+
+Phage	BobsGarage (L2)	Confidence (CY1)	Hoonter (E)	Kimona (A19)	Djokovic (DG1)	MissWhite (A2)	Teatealatte (CS4)	Buck (E)	Kenna (DN1)
+Phroglets (Singleton)	0.0	0.0	1.2	1.4	0.0	1.4	0.0	1.2	0.0
+
+Phage	Msay19 (CS2)	Gambino (CV)	Kiko (DB)	Fosterous (DE1)	EMoore (DE2)	Fairfaxidum (CV)	Eyes (DB)	PhrostedPhlake (CV)	Polly (CZ1)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	Tredge (CS4)	Prithvi (K1)	Zeeculate (A1)	Zarbodnamra (CV)	TreyKay (K1)	Sproutie (CZ2)	Tangent (DE1)	Stultus (DE1)	SmokingBunny (DC1)
+Phroglets (Singleton)	0.0	0.0	1.4	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	Suscepit (CZ1)	Mutzi (DC1)	Dmitri (DB)	Daredevil (DL)	Hail2Pitt (CS3)	UncleRicky (F1)	Bibwit (DE1)	Angelicage (DE1)	Antonio (CZ1)
+Phroglets (Singleton)	0.0	0.0	0.0	2.3	0.0	0.0	0.0	0.0	0.0
+
+Phage	JoshKayV (A2)	Agatha (CT)	VanDeWege (DC1)	Parada (DI)	Valary (DC1)	Fugax (DC1)	Lamberg (CZ2)	Dexdert (DE3)	AlainaMarie (DJ)
+Phroglets (Singleton)	1.3	1.5	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	Bock (DI)	Evamon (DC1)	Cynthia (CZ2)	Plumbus (F1)	Shaqnato (C1)	Roliet (B1)	JangDynasty (O)	Ailee (DE1)	Ein37 (Q)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	1.3	0.0	0.0	0.0
+
+Phage	Riggan (B1)	Wayne (AK)	Korra (AK)	Bennie (AK)	Gemma (A3)	Ilzat (EA1)	Quhwah (EC)	AxiPup (EA1)	PuppyEggo (EA1)
+Phroglets (Singleton)	1.3	0.0	0.0	0.0	1.4	1.6	1.4	1.6	1.6
+
+Phage	Wizard007 (A4)	Citius (A4)	Centaur (A2)	Icee (E)	Squash (EG)	Hyperion (EG)	Olicious (BF)	Annadreamy (BK1)	SgtBeansprout (K1)
+Phroglets (Singleton)	1.4	1.4	1.3	1.2	1.3	1.3	0.0	0.0	0.0
+
+Phage	Sebastisaurus (BB2)	Maneekul (BD1)	Rana (BD1)	Bowden (BD2)	Janus (BD2)	TinaBelcher (BD2)	DrYang (AR)	Cholula (AK)	OurGirlNessie (AK)
+Phroglets (Singleton)	1.8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	Litotes (AK)	OMalley (AK)	Mufasa8 (FG)	BigMack (AK)	Rowa (BL)	Lennox (AK)	Troje (CT)	Flakey (CS2)	JayCookie (AR)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	1.6	0.0	1.5	0.0	0.0
+
+Phage	CallieOMalley (AK)	Rozby (AK)	Huckleberry (AK)	JKerns (AO2)	Lymara (AR)	Zartrosa (AO2)	Savage2526 (AK)	Erk16 (D1)	Silvafighter (N)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	Tribute (BE1)	Nishikigoi (BD2)	Hamish (B1)	Leogania (A2)	TootsiePop (F1)	Misha28 (F1)	BillNye (BK2)	Satis (BM)	Mildred21 (BE1)
+Phroglets (Singleton)	0.0	0.0	1.3	1.5	0.0	0.0	0.0	0.0	0.0
+
+Phage	Joselito (A11)	Cruella (EN)	Webster2 (Q)	Sabella (B2)	RomaT (B3)	William (CV)	Kwksand96 (B1)	Savage (CZ2)	Galactic (F1)
+Phroglets (Singleton)	1.3	0.0	0.0	1.4	1.3	0.0	1.3	0.0	0.0
+
+Phage	Yago84 (DR)	RobinSparkles (CX)	Chill (D1)	SCentae (DO)	Aliter (A9)	Rofo (DE1)	Amgine (K6)	Lutum (DN1)	Rubeelu (N)
+Phroglets (Singleton)	1.4	0.0	0.0	0.0	1.4	0.0	0.0	0.0	1.6
+
+Phage	Kareem (G1)	Alvy (BD2)	Dubu (BJ)	Danyall (DC1)	Fryberger (DP)	LordFarquaad (CZ2)	Adat (AV)	Fenry (CV)	YoureAdopted (K1)
+Phroglets (Singleton)	0.0	0.0	1.9	0.0	0.0	0.0	42.8	0.0	0.0
+
+Phage	Lahirium (CS3)	Atiba (K1)	Samty (L3)	Veritas (B1)	Ading (C1)	Banquo (CU1)	Reyja (DY)	Skog (DO)	Jormungandr (CS3)
+Phroglets (Singleton)	0.0	0.0	0.0	1.3	0.0	0.0	0.0	0.0	0.0
+
+Phage	Percival (EH)	LittleLaf (S)	Krampus (EF)	EmiRose (Singleton)	Appa (GA)	Eleri (EA2)	AnnaSerena (EF)	PaoPu (EE)	BurtonThePup (EE)
+Phroglets (Singleton)	1.5	0.0	0.0	1.9	0.0	1.6	0.0	0.0	0.0
+
+Phage	Hurricane (K3)	Visconti (D1)	Bing (BI5)	OKCentral2016 (A10)	Harambe (CS3)	UAch1 (B1)	Amethyst (BD2)	Ozzie (BD1)	Tefunt (BD2)
+Phroglets (Singleton)	0.0	0.0	1.4	1.4	0.0	1.3	0.0	0.0	0.0
+
+Phage	Diane (BD2)	Celeste (BD1)	Esperer (BD1)	Daudau (BD2)	BryanRecycles (BD1)	NootNoot (BE1)	MementoMori (EI)	LuckyMarjie (B1)	SwagPigglett (F1)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.3	0.0
+
+Phage	ParkTD (C1)	Pioneer3 (ED1)	Flapper (CR1)	SpikeBT (A1)	Ewok (C1)	Nimi13 (CS3)	Colucci (AR)	Jifall16 (CR2)	Apricot (DN3)
+Phroglets (Singleton)	0.0	0.0	0.0	1.4	0.0	0.0	0.0	0.0	0.0
+
+Phage	Norm (C1)	Getalong (DN1)	Emianna (CR2)	Portcullis (DC1)	Fireball (DC1)	Finch (Singleton)	Brandonk123 (DE1)	Barb (DC1)	Chidiebere (DQ)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	Anon (A15)	Beans (AO1)	Walrus (CV)	Cheesy (AM)	SteveFrench (CS2)	Chuckly (F1)	Vaishali24 (B1)	MoneyMay (A3)	Tarynearal (A5)
+Phroglets (Singleton)	2.6	0.0	0.0	0.0	0.0	0.0	1.3	1.4	1.4
+
+Phage	Ksquared (P1)	BabeRuth (N)	Patter (C1)	Abt2graduatex2 (BG)	KBurrousTX (AR)	Chance64 (G1)	Shnickers (C1)	Zorro (AK)	Cornucopia (F1)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	Renaissance (G1)	Atlantean (C1)	Clautastrophe (L3)	Krypton555 (L3)	Plmatters (B1)	Kurt (CR2)	ElephantMan (AU1)	Unicorn (K6)	Neoevie (CS3)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	1.3	0.0	0.0	0.0	0.0
+
+Phage	Nicholas (L3)	Kingsolomon (L3)	PhelpsODU (K6)	Coffee (B2)	Horus (DN1)	Miley16 (L2)	Poise (S)	Paperbeatsrock (E)	Blackbeetle (S)
+Phroglets (Singleton)	0.0	0.0	0.0	1.4	0.0	0.0	0.0	1.2	0.0
+
+Phage	Piper2020 (F1)	Lopton (A1)	DoesntMatter (B1)	Mabel (A11)	Zion (EN)	ShayRa (A15)	Phistory (DN1)	Ashertheman (DE1)	Austintatious (BC3)
+Phroglets (Singleton)	0.0	1.4	1.3	1.3	0.0	1.3	0.0	0.0	0.0
+
+Phage	PotatoChip (EN)	Aphelion (CQ1)	Alsaber (BD3)	Cannibal (B1)	Namo (BI1)	Zaria (L1)	Chancellor (K4)	Refuge (A12)	Blackmoor (A4)
+Phroglets (Singleton)	0.0	0.0	0.0	1.3	1.4	0.0	0.0	1.4	1.4
+
+Phage	Nairb (T)	Rhinoforte (B2)	Kahlid (L2)	Shaobing (K1)	Madamato (BI1)	Popy (BI1)	Nabi (BD1)	Asten (BD1)	WaldoWhy (D1)
+Phroglets (Singleton)	1.7	1.4	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	Zavala (K1)	Killigrew (A1)	Druantia (A4)	Xena (A4)	HermioneGrange (A1)	Tesla (S)	Barbarian (E)	Adonis (K1)	Bonanza (CA)
+Phroglets (Singleton)	0.0	1.4	1.4	1.4	1.3	0.0	1.2	0.0	1.6
+
+Phage	Kasen3 (G1)	SheaKeira (A9)	Essence (C1)	Squint (J)	Durga (B1)	Wyatt2 (L1)	Nubia (AK)	Longacauda (B1)	Hortus1 (ED1)
+Phroglets (Singleton)	0.0	1.4	0.0	0.0	1.3	0.0	0.0	1.3	0.0
+
+Phage	NEHalo (A1)	Niktson (AU1)	TattModd (AK)	Lore (AN)	Shrooms (AL)	Caterpillar (AU4)	Temper16 (AK)	GurgleFerb (AV)	Nellie (AV)
+Phroglets (Singleton)	1.4	0.0	0.0	0.0	0.0	1.4	0.0	42.8	42.4
+
+Phage	OldBen (F1)	SuperSulley (CR2)	Buggaboo (CR2)	Tandem (ED1)	Lulumae (B1)	Adgers (CS2)	OlinDD (ED1)	RobsFeet (EC)	Holeinone (B2)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	1.3	0.0	0.0	0.0	1.4
+
+Phage	Ebony (A11)	KingMidas (F1)	PeteyPab (EN)	Michley (A1)	Kanely (A1)	Big3 (A1)	Hannaconda (J)	Darwin (EN)	NoodleTree (C1)
+Phroglets (Singleton)	1.3	0.0	0.0	1.4	1.4	1.4	0.0	0.0	0.0
+
+Phage	ItsyBitsy1 (B2)	Wachhund (F1)	Belladonna (K1)	Drake55 (A2)	Squiggle (B1)	Settecandela (AA)	ThreeRngTarjay (J)	KashFlow (J)	Opia (B2)
+Phroglets (Singleton)	1.4	0.0	0.0	1.3	1.3	0.0	0.0	0.0	1.4
+
+Phage	Hotshotbaby7 (G1)	DrPhinkDaddy (C1)	Superchunk (A2)	ArcusAngelus (F1)	Craff (B1)	RedMaple (B1)	Boyle (B2)	RawrgerThat (B4)	Alexphander (F1)
+Phroglets (Singleton)	0.0	0.0	1.3	0.0	1.3	1.3	1.4	1.4	0.0
+
+Phage	ActinUp (K1)	Forza (DS)	Command613 (E)	Philonius (N)	Redfield (EA1)	Aggie (N)	KimmyK (DC1)	NicoleTera (A2)	Guillsminger (K5)
+Phroglets (Singleton)	0.0	1.1	1.2	0.0	1.6	0.0	0.0	1.4	0.0
+
+Phage	Gex (N)	Phox (C1)	DaWorst (F1)	Familton (O)	Iota (C1)	Skysand (CR3)	PhrankReynolds (B1)	WilliamBoone (CQ1)	Gareth (B1)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	1.3	0.0	1.3
+
+Phage	Phleuron (B1)	Kailash (B1)	Asapag (DN1)	Phunky (B1)	Anselm (A2)	Arib1 (P1)	Kalah2 (J)	Turuncu (CR1)	Tiamoceli (DE3)
+Phroglets (Singleton)	1.3	1.3	0.0	1.3	1.3	0.0	0.0	0.0	0.0
+
+Phage	Cuke (AC)	Anamika (CS3)	Delian (CV)	BirksAndSocks (CS2)	BENtherdunthat (DN1)	Coeur (CW2)	Chelms (CS2)	NosilaM (CR2)	Angelique (CY1)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	Exiguo (CS2)	TBrady12 (E)	TinoCrisci (AN)	Veliki (K1)	SqueakyClean (BD2)	Blueeyedbeauty (BK1)	BeardedLady (BD1)	Oliynyk (BD1)	Paradiddles (BE1)
+Phroglets (Singleton)	0.0	1.2	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	Kimchi (E)	ShereKhan (E)	SallySpecial (DM)	Scap1 (BI2)	BiPauneto (CR4)	Traft412 (A1)	Yosif (BD3)	Schatzie (J)	Cornie (F5)
+Phroglets (Singleton)	1.2	1.2	0.0	0.0	0.0	1.4	0.0	0.0	0.0
+
+Phage	Demsculpinboyz (F2)	FrayBell (C1)	Bobby (J)	LuckyBarnes (Singleton)	Rapunzel97 (K1)	IPhane7 (M1)	Froghopper (A1)	LilHazelnut (Q)	Donny (B5)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	1.4	0.0	1.3
+
+Phage	Mryolo (A1)	Mattes (F1)	Crispicous1 (A1)	Scherzo (A9)	Phonnegut (A9)	Frankie (F1)	Crucio (A2)	Adlitam (C1)	OctaviousRex (G1)
+Phroglets (Singleton)	1.4	0.0	1.4	1.3	1.3	0.0	1.4	0.0	0.0
+
+Phage	Roy17 (B1)	Faze9 (B2)	Chipper1996 (AR)	Tinciduntsolum (B2)	Brownie5 (B2)	Haimas (B1)	Asriel (E)	Mollymur (DL)	DatBoi (DL)
+Phroglets (Singleton)	1.3	1.4	0.0	1.4	1.4	1.3	1.2	1.3	1.1
+
+Phage	BeatusComedenti (AT)	FugateOSU (B1)	Kingmustik0402 (A4)	DismalFunk (K2)	Dismas (EB)	Ronaldo (DP)	Waits (A15)	Kevin1 (N)	Nenae (N)
+Phroglets (Singleton)	0.0	1.3	1.4	0.0	1.6	0.0	2.7	1.5	0.0
+
+Phage	Easy2Say (E)	Phareon (B1)	Purgamenstris (N)	Peppino (EA1)	Knox (EA1)	TeddyBear (EA1)	Triscuit (GG)	Raptor (EA1)	Petra (CV)
+Phroglets (Singleton)	1.2	1.3	0.0	1.6	1.6	1.6	1.3	1.6	0.0
+
+Phage	Hendrix (GC)	Hamlet (EA1)	Gelo (EA1)	PFR2 (BX)	PFR1 (BX)	Toniann (CQ1)	Emperor (DM)	Melba (CV)	Mulan (B1)
+Phroglets (Singleton)	1.1	1.6	1.6	0.0	0.0	0.0	0.0	0.0	1.3
+
+Phage	Lozinak (CQ1)	LeoAvram (A4)	BRock (BS)	Phendrix (DK)	Kerry (DJ)	DinoDaryn (CU1)	Bandik (EA1)	Pupper (DO)	Boneham (CS2)
+Phroglets (Singleton)	0.0	1.5	1.1	1.1	0.0	0.0	1.6	0.0	0.0
+
+Phage	Didgeridoo (EB)	Baines (EA1)	Bonino (EA1)	Supernova (BU)	DrParker (BU)	BeeBee8 (EA1)	Goby (BD1)	LilPharaoh (K1)	Toma (BD1)
+Phroglets (Singleton)	1.5	1.6	1.6	0.0	0.0	1.6	0.0	0.0	0.0
+
+Phage	MEAK (BU)	Aquarius (BU)	ASerpRocky (CS4)	Thespis (P1)	Nibb (K1)	GtownJaz (A3)	JeppNRM (A3)	Kalb97 (A3)	Flare16 (A2)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	1.4	1.4	1.4	1.3
+
+Phage	KyMonks1A (A1)	NearlyHeadless (A8)	KristaRAM (F1)	Dixon (A8)	Biglebops (K1)	Acquire49 (L1)	ToastyFinz (BC1)	WRightOn (BF)	Miko (A2)
+Phroglets (Singleton)	1.4	1.3	0.0	1.3	0.0	0.0	0.0	0.0	1.4
+
+Phage	PGHhamlin (A3)	Kristoff (A10)	Niza (A1)	FiringLine (A2)	Pinnie (G3)	Phrank (K6)	Rahalelujah (A9)	SirPhilip (K6)	Amohnition (K6)
+Phroglets (Singleton)	1.4	1.4	1.4	1.4	0.0	0.0	2.7	0.0	0.0
+
+Phage	Nordenberg (DE1)	Gravy (DJ)	Robinson (EA1)	Dave (EA1)	Schiebel (G1)	Superfresh (EA1)	WheatThin (DI)	Cantare (Singleton)	Nadeem (DI)
+Phroglets (Singleton)	0.0	0.0	1.6	1.6	0.0	1.6	0.0	0.0	0.0
+
+Phage	Schiebs (CW3)	Flabslab (C1)	BigCheese (L2)	Antoinette (EA1)	Birchlyn (BE2)	Warpy (BE1)	Huffy (CU1)	Sushi23 (BE1)	Mitti (K4)
+Phroglets (Singleton)	0.0	0.0	0.0	1.6	0.0	0.0	0.0	0.0	0.0
+
+Phage	Spectropatronm (BI1)	DrGrey (BI1)	Jash (BD1)	BabyGotBac (BG)	Spartoi (Singleton)	GodonK (DK)	FelixAlejandro (CS2)	Kabluna (CR2)	Bjanes7 (CZ2)
+Phroglets (Singleton)	1.4	0.0	0.0	0.0	0.0	1.1	0.0	0.0	0.0
+
+Phage	Patio (CR3)	Zerg (F1)	PhorbesPhlower (DH)	JangoPhett (B1)	WelcomeAyanna (CZ1)	Keitherie (B1)	ThankyouJordi (CZ1)	Beyoncage (DG1)	Trine (CD)
+Phroglets (Singleton)	0.0	0.0	0.0	1.3	0.0	1.3	0.0	0.0	1.6
+
+Phage	Zeta1847 (EH)	BonaeVitae (EE)	Metamorphoo (EC)	BossLady (AO2)	Harley (F1)	Supakev (AK)	Ebert (CZ2)	Gorko (CS2)	Flathead (F1)
+Phroglets (Singleton)	1.5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	GEazy (DB)	EniyanLRS (V)	SimranZ1 (F1)	ImtiyazSitla (B1)	Maskar (B1)	Ashraf (B1)	Barco (CV)	TPA4 (Singleton)	GAL1 (Singleton)
+Phroglets (Singleton)	0.0	1.2	0.0	1.3	1.3	1.3	0.0	0.0	0.0
+
+Phage	GMA1 (Singleton)	Eviarto (CZ1)	Bialota (CZ1)	Lennon (DE1)	DyoEdafos (L4)	TimTam (CZ1)	Lysidious (CV)	Baloo (B3)	Ididsumtinwong (BC3)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.3	0.0
+
+Phage	Georgie2 (A2)	BiancaTri92 (A2)	Jeckyll (K1)	SnapTap (A2)	Jordan (AO2)	Dalmuri (K1)	Heisenberger (AM)	Tomathan (A2)	GuuelaD (L2)
+Phroglets (Singleton)	1.3	1.4	0.0	1.4	0.0	0.0	0.0	1.4	0.0
+
+Phage	Superphikiman (J)	Paito (G1)	Priscilla (F1)	Conquerage (A9)	Tortellini (P2)	Virapocalypse (B1)	Fred313 (A3)	Scottish (F1)	Terror (G1)
+Phroglets (Singleton)	0.0	0.0	0.0	1.3	0.0	1.3	1.4	0.0	0.0
+
+Phage	Nemo27 (A4)	Nitzel (F1)	LindNT (K1)	Majeke (P1)	Kyee (A4)	Connomayer (A4)	Geraldini (K1)	Katalie136 (A4)	Jaan (A2)
+Phroglets (Singleton)	1.4	0.0	0.0	0.0	1.4	1.4	0.0	1.4	1.4
+
+Phage	Melissauren88 (F1)	TChen (F4)	AlishaPH (K1)	Cindaradix (A4)	Lorenzo (A4)	AbbyPaige (A2)	Phish (G1)	FoxtrotP1 (C1)	Hedwig (DB)
+Phroglets (Singleton)	0.0	0.0	0.0	1.4	1.4	1.3	0.0	0.0	0.0
+
+Phage	EmmaElysia (C1)	Flaverint (A11)	Fajezeel (A1)	Daffodil (C1)	P104B (BU)	P106A (BU)	P106C (BU)	P106I (BU)	P106L (BU)
+Phroglets (Singleton)	0.0	1.3	1.4	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	P106M (BU)	P107A (BU)	P107C (BU)	P108C (BU)	WideWale (A2)	Ruin (A4)	Schadenfreude (B1)	TipsytheTRex (A2)	LilTurb (A2)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	1.3	1.4	1.3	1.4	1.4
+
+Phage	Groupthink (A3)	ChampagnePapi (A4)	BatStarr (CZ1)	Gemini (E)	ACFishhook (A3)	AvadaKedavra (L1)	Jaykayelowell (A4)	PitaDog (AK)	Nightmare (AU1)
+Phroglets (Singleton)	1.4	1.4	0.0	1.2	1.5	0.0	1.4	0.0	0.0
+
+Phage	Massimo (AN)	KingTut (B1)	MyraDee (A18)	Pharaoh (A12)	Glexan (E)	Makemake (A1)	Mynx (K1)	GenevaB15 (M2)	Adnama (E)
+Phroglets (Singleton)	0.0	1.4	1.4	2.9	0.0	1.4	0.0	0.0	1.2
+
+Phage	Jumbo (DF3)	JSwag (A15)	MuchMore (A3)	Sagefire (A1)	KandZ (D1)	Lilpickle (E)	TrvxScott (BD2)	Shawty (BB1)	BartholomewSD (BD2)
+Phroglets (Singleton)	0.0	2.6	1.4	1.4	0.0	1.2	0.0	1.7	0.0
+
+Phage	ChosenOne (E)	Charm (A9)	Traaww1 (E)	Dalmatian (A2)	Zirinka (CZ1)	Maxxinista (E)	Cucurbita (CQ1)	Teacup (AU1)	Royals2015 (F1)
+Phroglets (Singleton)	1.2	1.4	1.2	1.4	0.0	0.0	0.0	0.0	0.0
+
+Phage	LiSara (AL)	Mazhar510 (A4)	DismalStressor (K2)	Dino (AK)	Bogie (P1)	QueenBeesly (A2)	Bantam (DL)	GordDuk1 (DF1)	GordTnk2 (DF1)
+Phroglets (Singleton)	0.0	1.4	0.0	0.0	1.4	1.4	1.1	0.0	0.0
+
+Phage	Hammy (K6)	Blair (AN)	Peanam (K1)	Dublin (A5)	Aroostook (G1)	Fluke (AK)	Mutante (B1)	Fringe (B1)	Terapin (DG1)
+Phroglets (Singleton)	0.0	0.0	0.0	1.4	0.0	0.0	1.3	1.3	0.0
+
+Phage	Piccoletto (AO1)	Jabith (A11)	LilhomieP (M1)	Zakai (L2)	Puppy (A3)	Ichor (AQ)	Laila (AN)	Nyceirae (DT)	Twister6 (DC1)
+Phroglets (Singleton)	0.0	1.3	0.0	0.0	1.4	2.8	0.0	0.0	0.0
+
+Phage	Taj14 (AN)	Gompeii16 (A1)	Saphira (AN)	CarolAnn (CV)	Harlequin (CA)	Eyre (Singleton)	CaptainKirk2 (CV)	PhishRPhriends (A3)	Ghobes (DA)
+Phroglets (Singleton)	0.0	1.4	0.0	0.0	1.6	0.0	0.0	1.4	0.0
+
+Phage	Zulu (A6)	StewieGriff (AN)	Bircsak (A1)	Partridge (CA)	Jester (CA)	Rachaly (A2)	Lorelei (BD1)	Pistachio (A3)	Boersma (AQ)
+Phroglets (Singleton)	1.3	0.0	1.4	1.6	1.6	1.4	0.0	1.4	2.8
+
+Phage	Lucivia (A11)	Awesomesauce (F1)	Cocoaberry (A4)	Mojorita (BC1)	Kalpine (A2)	Remus (A15)	PapayaSalad (BC3)	Jaek (AQ)	TDanisky (F1)
+Phroglets (Singleton)	1.3	0.0	1.4	0.0	1.3	2.7	0.0	2.8	0.0
+
+Phage	Strosahl (A15)	Lukilu (C1)	Stubby (C1)	Dinger (CA)	Surely (B1)	Phrappuccino (AA)	JackSparrow (A1)	HortumSL17 (A9)	Pomar16 (A2)
+Phroglets (Singleton)	2.7	0.0	0.0	1.6	1.3	0.0	1.4	1.3	1.4
+
+Phage	Pinkman (B1)	IceWarrior (BI1)	Bipolarisk (C1)	Bigfoot (A1)	BuzzBuzz (A3)	KellEzio (AT)	JuicyJay (J)	Lokk (A2)	BobSwaget (A2)
+Phroglets (Singleton)	1.3	1.4	0.0	1.4	1.4	0.0	0.0	1.4	1.4
+
+Phage	Saguaro (B7)	Louie6 (A3)	Mortcellus (B3)	BobbyDazzler (CA)	HighStump (B1)	Typha (Y)	Kitkat (AT)	RitaG (F1)	Mikota (B1)
+Phroglets (Singleton)	1.4	1.4	1.3	1.6	1.3	0.0	0.0	0.0	1.3
+
+Phage	Gideon (G1)	TyrionL (B1)	BobaPhett (F1)	DRBy19 (F1)	Prospero (AN)	ShiaLabeouf (C1)	Phergie (B1)	PhenghisKhan (B1)	LilDestine (L2)
+Phroglets (Singleton)	0.0	1.3	0.0	0.0	0.0	0.0	1.3	1.3	0.0
+
+Phage	PhrodoBaggins (B1)	Geralt (F1)	Retro23 (A2)	QueenB2 (A2)	Nanosmite (M3)	GooberAzure (E)	AgronaGT15 (A3)	GardenSalsa (M2)	Hughesyang (J)
+Phroglets (Singleton)	1.3	0.0	1.3	1.4	0.0	1.2	1.4	0.0	0.0
+
+Phage	Nimrod (E)	IHOP (E)	LouisV14 (G1)	HokkenD (J)	Greg (A1)	Yucca (C1)	SassyCat97 (B1)	LifeSavor (C1)	Abidatro (AS1)
+Phroglets (Singleton)	1.2	1.2	0.0	0.0	1.4	0.0	1.3	0.0	0.0
+
+Phage	Elkhorn (AN)	Grizzly (G1)	Wilder (L2)	WillSterrel (F1)	Derpp (B1)	FrenchFry (B2)	TomBombadil (B1)	Rem711 (Z)	DBQu4n (A2)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	1.3	1.4	1.3	0.0	1.4
+
+Phage	Kerberos (A2)	Byougenkin (F1)	MarysWell (A5)	Krueger (K6)	Relief (A4)	DillTech15 (F1)	Roosevelt (A4)	YassJohnny (E)	Erdmann (C1)
+Phroglets (Singleton)	1.4	0.0	1.4	1.3	1.4	0.0	1.4	1.2	0.0
+
+Phage	Labeouficaum (B1)	Avocado (G2)	Phaeder (A9)	LastHope (K1)	StevieRay (P1)	Mag7 (B1)	Jordennis (A6)	Goldilocks (E)	C3PO (EN)
+Phroglets (Singleton)	1.3	0.0	1.3	0.0	0.0	1.3	2.7	1.2	0.0
+
+Phage	Fortunato (B4)	Wintermute (K4)	DudeLittle (A2)	Koella (F1)	Gage (E)	Grand2040 (B1)	Gmala1 (DF1)	Gruunaga (A6)	Buttons (A1)
+Phroglets (Singleton)	1.4	0.0	1.4	0.0	1.2	1.3	0.0	1.3	1.4
+
+Phage	HedwigODU (K1)	Priamo (A6)	Nanodon (BD1)	PhancyPhin (N)	Cookies (E)	KylieMac (AN)	Acme (A1)	Phasih (F1)	Placalicious (B1)
+Phroglets (Singleton)	0.0	1.3	0.0	0.0	1.2	0.0	1.4	0.0	1.3
+
+Phage	Baehexic (A2)	Heliosoles (A3)	Yvonnetastic (DD)	Kita (CZ1)	AlleyCat (K5)	Doucette (BW)	Swenson (AN)	Bumblebee11 (A4)	Colt (C1)
+Phroglets (Singleton)	1.3	1.4	0.0	0.0	0.0	0.0	0.0	1.4	0.0
+
+Phage	CheetO (B1)	Cosmolli16 (B1)	WunderPhul (A6)	ZenTime222 (T)	DirtyDunning (A4)	Vallejo (AK)	Scavito (AR)	Kabreeze (AR)	HumptyDumpty (AR)
+Phroglets (Singleton)	1.3	1.3	1.4	1.6	1.4	0.0	0.0	0.0	0.0
+
+Phage	RcigaStruga (AK)	Lucy (AK)	Christian (AK)	EdgarPoe (AR)	CLED96 (G1)	Canowicakte (AK)	RosiePosie (AR)	Suppi (AK)	Mariposa (AN)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	Timmi (B1)	Loanshark (C1)	Molivia (AQ)	Remy19 (G1)	Chestnut (AN)	Bioscum (BC3)	TBond007 (K3)	Idleandcovert (A3)	Olive (B1)
+Phroglets (Singleton)	1.3	0.0	2.7	0.0	0.0	0.0	0.0	1.4	1.3
+
+Phage	Tinybot (A4)	Marcoliusprime (K2)	Qobbit (A9)	Tapioca (N)	Hookmount (A3)	LittleB (A4)	Huntingdon (AK)	Chocolat (AR)	Chubster (AR)
+Phroglets (Singleton)	1.4	0.0	1.3	0.0	1.4	1.4	0.0	0.0	0.0
+
+Phage	Conboy (AR)	Ramen (K1)	CactusRose (A1)	Wiks (A6)	Napoleon13 (C1)	Briton15 (A1)	Tachez (K1)	Waterfoul (K5)	HuhtaEnerson15 (A5)
+Phroglets (Singleton)	0.0	0.0	1.3	1.3	0.0	1.4	0.0	0.0	1.4
+
+Phage	Beauxregard13 (A3)	Watson (A3)	Soshari (A3)	Kingsley (F1)	Florean (A4)	Valjean (B1)	Finemlucis (L2)	Zaider (B1)	Adahisdi (A1)
+Phroglets (Singleton)	1.4	1.4	1.4	0.0	1.4	1.3	0.0	1.3	1.4
+
+Phage	Serendipitous (B5)	Andies (N)	DarthP (K6)	Slimphazie (K1)	KADY (A3)	Stagni (A3)	B3 (BV)	G4 (BW)	E6 (BW)
+Phroglets (Singleton)	1.3	0.0	0.0	0.0	1.4	1.4	0.0	0.0	0.0
+
+Phage	Porcelain (J)	Audrick (C1)	StepMih (A3)	Inca (E)	Nidhogg (C1)	Iridoclysis (B1)	UhSalsa (CA)	AngryOrchard (CA)	Yogi (CA)
+Phroglets (Singleton)	0.0	0.0	1.4	1.2	0.0	1.3	1.6	1.6	1.6
+
+Phage	Tribby (AM)	Tophat (AR)	Howe (CZ4)	Woes (CS3)	MsGreen (L3)	Lucky10 (DH)	Edmundo (AL)	Hotorobo (CS2)	Katyusha (CS4)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	Emalyn (CT)	Phinally (DE2)	Guacamole (CV)	BetterKatz (DI)	SoilAssassin (CZ2)	Obliviate (CV)	BaxterFox (CZ3)	Attis (CZ2)	MrMagoo (M2)
+Phroglets (Singleton)	1.6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	CrystalP (E)	Benczkowski14 (CS4)	UmaThurman (CV)	Schnabeltier (DB)	Vivi2 (DE1)	Yeezy (CZ3)	Nymphadora (CZ1)	GreenHearts (AK)	Bowser (DB)
+Phroglets (Singleton)	1.2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	Kampe (CX)	Galaxy (AS1)	Niklas (K1)	Phranny (A3)	Mudcat (AM)	Oogway (A1)	Reba (A3)	StarStuff (A2)	Pat3 (E)
+Phroglets (Singleton)	1.3	0.0	0.0	1.4	0.0	1.4	1.4	1.4	1.2
+
+Phage	Nazo (P4)	Taheera (G1)	Stasia (A4)	Mangethe (P1)	Manda (E)	Isiphiwo (A6)	Commander (A4)	OlanP (A3)	BaboJay (E)
+Phroglets (Singleton)	0.0	0.0	1.4	0.0	1.2	1.3	1.4	1.4	0.0
+
+Phage	Margo (A3)	Daishi (A3)	Filuzino (F1)	Smooch (O)	Rich (B5)	Ximenita (K6)	Albee (A4)	Blue (A1)	McGonagall (CW1)
+Phroglets (Singleton)	1.4	1.4	0.0	0.0	1.4	1.3	1.4	1.4	0.0
+
+Phage	Jeanie (CW1)	GaugeLDP (A2)	Capricorn (K1)	AugsMagnumOpus (A3)	Gsput1 (CU2)	xkcd (E)	Cota (BU)	Emma (F1)	Sheila (B1)
+Phroglets (Singleton)	0.0	1.4	0.0	1.4	0.0	1.2	0.0	0.0	1.3
+
+Phage	Leviosa (BU)	LilBandit (BU)	Yara (BN)	Oxynfrius (AK)	Wheelbite (AL)	Raleigh (BC2)	Greenhouse (AK)	GMA7 (CS1)	GMA6 (DQ)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	GMA5 (CW2)	GMA4 (Singleton)	GMA3 (DF2)	GMA2 (DS)	GRU3 (CW2)	GTE8 (CR2)	GTE6 (DE3)	Wizard (DC1)	Utz (CV)
+Phroglets (Singleton)	0.0	1.6	0.0	1.2	0.0	0.0	0.0	0.0	0.0
+
+Phage	Orchid (CX)	Cozz (CT)	Jillium (B1)	Sweets (G1)	Martha (AO2)	Glenn (AK)	RAP15 (AK)	Jasmine (AV)	Mahdia (CD)
+Phroglets (Singleton)	1.3	1.6	1.3	0.0	0.0	0.0	0.0	40.7	1.6
+
+Phage	BritBrat (CY2)	Bipper (Y)	OneUp (CQ2)	Nozo (B3)	Smoothie (CQ1)	PatrickStar (CX)	James (F1)	Taptic (W)	Franzy (AO1)
+Phroglets (Singleton)	0.0	1.2	0.0	1.3	0.0	1.3	0.0	0.0	0.0
+
+Phage	Derek (C1)	Annyong (A4)	Weasels2 (CB)	Nebkiss (X)	MeganNoll (AK)	Blueberry (CV)	ChaChing (B3)	Demosthenes (CS4)	Kvothe (CS4)
+Phroglets (Singleton)	0.0	1.4	0.0	0.0	0.0	0.0	1.3	0.0	0.0
+
+Phage	JenCasNa (A3)	NaSiaTalie (A2)	Eapen (A4)	Yunkel11 (K1)	Guanica15 (K1)	Efra2 (K1)	Yecey3 (A9)	Stephig9 (A8)	BadAgartude (C1)
+Phroglets (Singleton)	1.4	1.3	1.4	0.0	0.0	0.0	1.3	1.3	0.0
+
+Phage	Crosby (BH)	Firehouse51 (F1)	Splinter (CU1)	Vendetta (CU1)	Kubed (BU)	Keiki (BU)	MrAK (BU)	QueenBey (BU)	Procrass1 (BU)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	Solid (BU)	Wizzo (BU)	Megabear (W)	TaeYoung (AO2)	ArcherNM (A2)	GreaseLightnin (P1)	Petra64142 (E)	Wooldri (A3)	IrishSherpFalk (F1)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	1.4	0.0	1.2	1.4	0.0
+
+Phage	Seagreen (F1)	Alpacados (CA)	StCroix (CA)	Naiad (CA)	Urla (AK)	PopTart (F1)	SKKY (BU)	Moyashi (BU)	Enoki (BU)
+Phroglets (Singleton)	0.0	1.6	1.6	1.6	0.0	0.0	0.0	0.0	0.0
+
+Phage	BruceLethal (BU)	E1 (BV)	Anatole (BV)	B22 (BW)	DrRobert (AK)	Godpower (BD1)	Timinator (AO2)	Aaronocolus (BD1)	Caelum (BD2)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	Seume (AN)	Phrankenstein (CA)	SassyB (F1)	Pippin (A1)	Struggle (B1)	Oscar (K1)	Snenia (L3)	Snape (A11)	Todacoro (A3)
+Phroglets (Singleton)	0.0	1.6	0.0	1.3	1.3	0.0	0.0	1.3	1.4
+
+Phage	Dione (B1)	HyRo (C1)	Rimmer (E)	Wallhey (B1)	SoilDragon (A3)	LugYA (A3)	Vulture (AK)	Midas2 (A5)	Phabba (C2)
+Phroglets (Singleton)	1.3	0.0	1.2	1.3	1.4	1.4	0.0	2.8	1.0
+
+Phage	SheldonCooper (A4)	Yank (AN)	DrHayes (K1)	Romney (A4)	Joann (AK)	Muttlie (AN)	Kimberlium (F1)	Ph8s (A2)	Terminus (E)
+Phroglets (Singleton)	1.4	0.0	0.0	1.4	0.0	0.0	0.0	1.3	1.2
+
+Phage	Koko (A6)	Dingo (B1)	Kersh (F1)	Rima (BI1)	OlympicHelado (BI1)	PhatCats2014 (B1)	ProfessorX (B1)	UNTPL (BH)	Monty (CS2)
+Phroglets (Singleton)	1.3	1.3	0.0	1.4	1.4	1.3	1.3	0.0	0.0
+
+Phage	Dattran (BD1)	WalterMcMickey (A10)	Izzy (BD1)	Yeezus (AQ)	Cedasite (G1)	Tonenili (C1)	Sprinklers (C1)	PacerPaul (A1)	Phrann (N)
+Phroglets (Singleton)	0.0	1.4	0.0	2.8	0.0	0.0	0.0	1.4	0.0
+
+Phage	Lambert1 (A3)	DmpstrDiver (J)	Penny1 (A3)	Whouxphf (F1)	Espica (CA)	Hiro (CA)	Cerulean (A4)	Gabriel (C1)	Scarlett (K1)
+Phroglets (Singleton)	1.4	0.0	1.4	0.0	1.6	1.6	1.4	0.0	0.0
+
+Phage	Urkel (K1)	LeMond (K1)	Gardann (L2)	Phlei (A13)	Maih (BG)	Picard (BC1)	Nason (AM)	XFactor (F1)	Enkosi (K1)
+Phroglets (Singleton)	0.0	0.0	0.0	1.4	0.0	0.0	0.0	0.0	0.0
+
+Phage	Zakhe101 (O)	Dieselweasel (A3)	PrincessTrina (AR)	Nancinator (CA)	Rhodalysa (CA)	CosmicSans (CA)	Pound (J)	Kanye (E)	Polka14 (F1)
+Phroglets (Singleton)	0.0	1.4	0.0	1.6	1.6	1.6	0.0	1.2	0.0
+
+Phage	Yoncess (CA)	ChewyVIII (Singleton)	RexFury (CA)	Alatin (CA)	Wilde (AP1)	StevieBAY (AO2)	Courtney3 (AN)	AFIS (A1)	KiSi (K1)
+Phroglets (Singleton)	1.6	1.4	1.6	1.6	0.0	0.0	0.0	1.4	0.0
+
+Phage	Wilkins (A1)	LeeroyJ (AO2)	MISSy (E)	AgentM (A5)	Sassay (E)	Youngblood (E)	Horchata (B1)	Link (AN)	Tank (AP1)
+Phroglets (Singleton)	1.4	0.0	1.2	1.4	1.2	1.2	1.3	0.0	0.0
+
+Phage	Swann (CA)	Eros (A4)	MinionDave (F1)	Soups (A15)	Edugator (K5)	JetBlade (A4)	Pioneer (A9)	Nerujay (A1)	Fameo (A2)
+Phroglets (Singleton)	1.6	1.4	0.0	1.3	0.0	1.4	1.3	1.3	1.4
+
+Phage	TWAMP (CA)	Hydra (BD1)	Verse (BD3)	Mindy (E)	Texage (A3)	FlagStaff (G2)	Luchador (A14)	Melpomini (C1)	PeterPeter (A4)
+Phroglets (Singleton)	1.6	0.0	0.0	1.2	1.4	0.0	1.3	0.0	1.4
+
+Phage	Lannister (BD1)	Danzina (BD1)	Zenon (R)	Gattaca (S)	OwlsT2W (F1)	Bartholomew (P1)	ChickenPhender (C1)	ClubL (CQ1)	DuchessDung (B1)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.3
+
+Phage	GreedyLawyer (A6)	Bigswole (C1)	Coog (A5)	Gorgeous (AQ)	Leston (K5)	Brusacoram (P1)	Legolas (B1)	DreamCatcher (A1)	AvatarAhPeg (A4)
+Phroglets (Singleton)	1.4	0.0	1.4	2.8	0.0	0.0	1.3	1.3	1.4
+
+Phage	Belenaria (CA)	Rings (AQ)	Elsa (AM)	Findley (K2)	BatteryCK (B1)	Cain (K6)	BarretLemon (AO2)	Jessibeth14 (C1)	Buckeye (B1)
+Phroglets (Singleton)	1.6	2.8	0.0	0.0	1.3	0.0	0.0	0.0	1.3
+
+Phage	McWolfish (C1)	CharlieGBrown (B1)	Khaleesi (C1)	Chymera (Singleton)	Tasp14 (A1)	Malinsilva (A3)	GeneCoco (B1)	Bactobuster (A2)	Hutc2 (A11)
+Phroglets (Singleton)	0.0	1.3	0.0	0.0	1.4	1.4	1.3	1.4	1.3
+
+Phage	Jessica (AN)	Decurro (AN)	Caliburn (BD1)	AbbeyMikolon (BL)	Panamaxus (A3)	Iracema64 (A4)	Trina (CE)	Phaja (E)	Specks (C1)
+Phroglets (Singleton)	0.0	0.0	0.0	1.7	1.4	1.4	0.0	1.2	0.0
+
+Phage	Roary (A8)	Lev2 (A5)	Mesh1 (B1)	MOOREtheMARYer (G3)	Elite2014 (E)	Baby16 (A4)	Pipsqueaks (N)	TNguyen7 (A3)	Morrow (A4)
+Phroglets (Singleton)	1.3	1.4	1.3	0.0	1.2	1.4	0.0	1.4	1.4
+
+Phage	Panchino (N)	MikeLiesIn (C1)	InterFolia (C1)	Haleema (B1)	Morizzled23 (C1)	Sotrice96 (E)	Chupacabra (A10)	Bella96 (K1)	Momo (C1)
+Phroglets (Singleton)	0.0	0.0	0.0	1.3	0.0	1.2	1.4	0.0	0.0
+
+Phage	Sparkdehlily (F1)	Lillie (CA)	Moki (AK)	BigPhil (F1)	Grayson (CB)	ShedlockHolmes (K3)	Phayonce (P5)	Krishelle (CA)	AppleCloud (CA)
+Phroglets (Singleton)	0.0	1.6	0.0	0.0	0.0	0.0	0.0	1.6	1.6
+
+Phage	Cobra (B1)	Vincenzo (B4)	Rosalind (A15)	Phamished (B1)	Wilbur (A4)	NorthStar (A4)	Skipitt (A4)	Xeno (N)	Journey13 (A2)
+Phroglets (Singleton)	1.3	1.3	2.7	1.3	1.4	1.4	1.4	0.0	1.4
+
+Phage	Eidsmoe (A9)	Badger (A4)	Scorpia (A5)	ToneTone (A6)	DarthPhader (A12)	SamuelLPlaqson (K1)	Potter (B1)	Kwadwo (B1)	TheloniousMonk (A1)
+Phroglets (Singleton)	1.3	1.4	2.8	1.3	1.4	0.0	1.3	1.3	1.4
+
+Phage	Glass (B2)	Tres (B2)	Natosaleda (CA)	Cueylyss (A1)	Appletree2 (L1)	Bricole (M1)	SorJuana (AQ)	LadyBird (A2)	Lumos (L3)
+Phroglets (Singleton)	1.4	1.4	1.6	1.5	0.0	0.0	2.8	2.7	0.0
+
+Phage	Bradshaw (CA)	Amela (BD3)	OrangeOswald (B3)	Cambiare (G2)	Sonny (AO2)	Brataylor (BD1)	AlanGrant (B4)	Waltz (AL)	Baee (B5)
+Phroglets (Singleton)	1.6	0.0	1.3	0.0	0.0	0.0	1.3	0.0	1.3
+
+Phage	Gollum (CA)	Corofin (B3)	Shade (AO2)	Preamble (AK)	Moloch (AN)	HunterDalle (AK)	Immaculata (AK)	Correa (AM)	Stratus (AN)
+Phroglets (Singleton)	1.6	1.3	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	Anansi (AQ)	Brent (AO1)	Henoccus (BH)	FF47 (AB)	Xkcd426 (BG)	TP1604 (BG)	Ibantik (Singleton)	Arcadia (AM)	ArV2 (Singleton)
+Phroglets (Singleton)	2.8	0.0	0.0	3.0	0.0	0.0	2.6	0.0	0.0
+
+Phage	ArV1 (AR)	Peregrin (CB)	KatherineG (A15)	Mule (A1)	OlympiaSaint (F1)	ILeeKay (A1)	Maroc7 (A1)	Sabinator (A3)	Atkinbua (A1)
+Phroglets (Singleton)	0.0	0.0	1.3	1.4	0.0	1.4	1.4	1.4	1.3
+
+Phage	Anubis (A3)	Smairt (A1)	Apocalypse (K1)	Petruchio (A1)	Jane (G1)	Sneeze (G1)	Jabiru (A5)	Samisti12 (BE1)	Jolie1 (B6)
+Phroglets (Singleton)	1.4	1.3	0.0	1.4	0.0	0.0	2.8	0.0	1.3
+
+Phage	40BC (B6)	39HC (B6)	Hosp (B6)	CRB1 (A2)	Jolie2 (G4)	20ES (A2)	40AC (A17)	32HC (Z)	Chandler (B3)
+Phroglets (Singleton)	1.3	1.3	1.3	2.7	0.0	2.7	1.4	0.0	1.3
+
+Phage	Bryce (CA)	Alvin (A1)	Sbash (I2)	Cosmo (V)	Updawg (A2)	Lolly9 (L3)	Stormborn (BU)	Lauchelly (BU)	Pirate (BU)
+Phroglets (Singleton)	1.6	1.4	0.0	1.2	1.3	0.0	0.0	0.0	0.0
+
+Phage	Ouroboros (BU)	Quico (F1)	Pops (B1)	Nhonho (A1)	Barriga (A1)	Madruga (U)	Godines (B2)	Girafales (F1)	Florinda (F1)
+Phroglets (Singleton)	0.0	0.0	1.3	1.4	1.3	0.0	1.4	0.0	0.0
+
+Phage	Attacne (BU)	JackieB (BH)	Immanuel3 (BF)	Murica (E)	Koguma (C1)	FireRed (E)	Jeon (W)	Eaglehorse (B2)	Thanksgivukkah (A4)
+Phroglets (Singleton)	0.0	0.0	0.0	1.2	0.0	1.2	0.0	1.4	1.4
+
+Phage	Phacado (A4)	Palestino (A4)	JoongJeon (A4)	YDN12 (BG)	Smeagol (A1)	OrionPax (E)	Power (A2)	Tripl3t (A1)	SamScheppers (K4)
+Phroglets (Singleton)	1.4	1.4	1.4	0.0	1.4	0.0	1.4	1.4	0.0
+
+Phage	McGuire (A1)	Burger (A4)	Pipcraft (A4)	Taquito (K4)	Bunnies (P1)	Phatniss (F1)	Amigo (AQ)	Changeling (A2)	Teardrop (C1)
+Phroglets (Singleton)	1.4	1.4	1.4	0.0	0.0	0.0	2.8	1.4	0.0
+
+Phage	GageAP (A1)	Karimac (BE2)	IronMan (A2)	Malithi (P1)	Bachita (CQ1)	BuzzLyseyear (F1)	Naca (A5)	Bipolar (F1)	SweetiePie (A2)
+Phroglets (Singleton)	1.4	0.0	1.4	0.0	0.0	0.0	1.4	0.0	1.4
+
+Phage	Altwerkus (B1)	Purky (P6)	Zetzy (A3)	Carcharodon (N)	Toulouse (AN)	Brocalys (F1)	Sandman (AN)	Phreak (G1)	Roscoe (B1)
+Phroglets (Singleton)	1.3	0.0	1.4	0.0	0.0	0.0	0.0	0.0	1.3
+
+Phage	Cerasum (F1)	Hetaeria (B1)	Hercules11 (A3)	Zonia (B1)	TeardropMSU (E)	Vivaldi (B1)	Larenn (A2)	Manuel (BF)	Peebs (BE1)
+Phroglets (Singleton)	0.0	1.3	1.4	1.3	1.2	1.3	1.4	0.0	0.0
+
+Phage	Jay2Jay (BE1)	Takoda (CA)	Jace (Singleton)	QuinnKiro (A3)	Caelakin (A4)	Farber (A3)	Lilith (A3)	P28Green (A3)	Zeenon (C1)
+Phroglets (Singleton)	0.0	1.6	1.4	1.4	1.4	1.4	1.4	1.4	0.0
+
+Phage	Bachome (A11)	Kinbote (Q)	Weiss13 (R)	Gengar (K5)	Chunky (B1)	Pocahontas (A3)	Laurie (B2)	VohminGhazi (A6)	Sabia (A3)
+Phroglets (Singleton)	1.3	0.0	0.0	0.0	1.3	1.4	1.4	1.3	1.4
+
+Phage	Lego3393 (B1)	Mulciber (A11)	Pharsalus (E)	Loadrie (L2)	Tuco (E)	Eremos (B1)	Dynamix (A1)	DaHudson (A3)	SuperGrey (F1)
+Phroglets (Singleton)	1.3	1.3	1.2	0.0	1.2	1.3	1.4	1.4	0.0
+
+Phage	BeesKnees (A1)	Equemioh13 (A2)	Apizium (B1)	Bubbles123 (F1)	Zeuska (A1)	Klein (J)	Tiffany (A3)	Maggie (AN)	BrownCNA (B4)
+Phroglets (Singleton)	1.4	1.3	1.3	0.0	1.4	0.0	1.4	0.0	1.3
+
+Phage	TymAbreu (AN)	CapnMurica (AU1)	Tortoise16 (C1)	Hopey (E)	Piro94 (A2)	Ollie (A3)	Grum1 (A3)	BabyRay (A3)	Minnie (F1)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	1.4	1.4	1.4	1.4	0.0
+
+Phage	Marie (A3)	Omnicron (K5)	Circum (AM)	KittenMittens (A10)	Poushou (EO)	OkiRoe (K5)	Emerson (K1)	Sigman (B1)	Funston (A4)
+Phroglets (Singleton)	1.4	0.0	0.0	1.5	0.0	0.0	0.0	1.3	1.4
+
+Phage	Zapner (F2)	Willis (C1)	Damien (H1)	Aglet (A3)	Gaia (X)	EmpTee (B1)	SuperAwesome (A6)	Archetta (A5)	Et2Brutus (A11)
+Phroglets (Singleton)	0.0	0.0	0.0	1.4	0.0	1.3	1.3	1.5	1.3
+
+Phage	Milly (K2)	Phlorence (A5)	ForGetIt (A5)	Zelda (B1)	Zephyr (A1)	BlackStallion (B1)	BigMama (D1)	Lucky2013 (J)	FluffyNinja (B1)
+Phroglets (Singleton)	0.0	1.4	1.4	1.3	1.4	1.3	0.0	0.0	1.3
+
+Phage	Ruby (F1)	LeeLot (B1)	MRabcd (B1)	LittleGuy (A4)	Xavier (B1)	Jerm (A2)	MisterCuddles (F1)	Rufus (A1)	LemonSlice (B1)
+Phroglets (Singleton)	0.0	1.3	1.3	1.4	1.3	1.4	0.0	1.4	1.3
+
+Phage	Mosaic (B1)	Turj99 (A1)	Sulley (K1)	Collard (K5)	Paedore (BD2)	Lasso (B1)	Keshu (K3)	Rasputin (CA)	Annihilator (G1)
+Phroglets (Singleton)	1.3	1.4	0.0	0.0	0.0	1.3	0.0	1.6	0.0
+
+Phage	Chorkpop (B1)	Abdiel (A4)	BeanWater (C1)	Aragog (A5)	Seabiscuit (A1)	Numberten (B1)	Ruotula (A1)	Myxus (A9)	Forsytheast (A1)
+Phroglets (Singleton)	1.3	1.4	0.0	1.4	1.4	1.3	1.4	1.3	1.3
+
+Phage	Swirley (A5)	Willez (E)	HufflyPuff (E)	Nala (E)	Conspiracy (A5)	E3 (Singleton)	Delilah (C1)	Wander (A4)	Bruiser (A4)
+Phroglets (Singleton)	1.4	1.2	1.2	1.2	1.4	0.0	0.0	1.4	1.4
+
+Phage	Clarenza (A4)	Heffalump (A2)	Pippy (F1)	PurpleHaze (A3)	Corvo (A1)	YouGoGlencoco (B1)	Broseidon (A4)	Homura (K1)	MetalQZJ (A1)
+Phroglets (Singleton)	1.4	1.4	0.0	1.4	1.4	1.3	1.4	0.0	1.4
+
+Phage	EricMillard (J)	Czyszczon1 (E)	Fibonacci (A11)	Waterdiva (B1)	JewelBug (A6)	Sophia (B1)	MilleniumForce (F1)	Petp2012 (A1)	PotatoSplit (A3)
+Phroglets (Singleton)	0.0	0.0	1.3	1.3	1.4	1.3	0.0	1.4	1.4
+
+Phage	Lemur (A4)	Mana (B1)	Arcanine (A1)	Minerva (J)	Girr (F1)	Amelie (K1)	Trypo (B1)	YungJamal (O)	Empress (F1)
+Phroglets (Singleton)	1.4	1.3	1.4	0.0	0.0	0.0	1.3	0.0	0.0
+
+Phage	Littleton (C1)	Goku (E)	Simpliphy (E)	DonSanchon (B1)	Slarp (K4)	Pumancara (AK)	Laroye (AL)	Salgado (AL)	Artemis2UCLA (A6)
+Phroglets (Singleton)	0.0	1.2	0.0	1.3	0.0	0.0	0.0	0.0	1.3
+
+Phage	Phelemich (B5)	Erik (CA)	Zaka (A6)	CloudWang3 (A6)	Bruin (E)	Graduation (A1)	PhatBacter (E)	Wheeler (A1)	Treddle (A1)
+Phroglets (Singleton)	1.4	1.6	1.3	1.3	1.2	1.3	1.2	1.3	1.4
+
+Phage	Taurus (A3)	Duke13 (J)	Gadost (A4)	Edtherson (A1)	Nilo (R)	DrDrey (E)	Gordon (AU1)	Whirlwind (L3)	Hawkeye (D2)
+Phroglets (Singleton)	1.4	0.0	1.4	1.4	0.0	1.2	0.0	0.0	0.0
+
+Phage	JAMaL (B4)	Mosby (E)	Bernardo (B3)	Jovo (A5)	HanShotFirst (A1)	Pinto (A1)	KFPoly (A4)	Millski (A4)	Kratark (A4)
+Phroglets (Singleton)	1.3	1.2	1.3	1.4	1.4	1.4	1.4	1.4	1.4
+
+Phage	First (A2)	MiaZeal (J)	GingkoMaracino (A3)	Adzzy (A2)	Eris (A4)	Camperdownii (A4)	BubbleTrouble (A4)	Badfish (B1)	EagleEye (A16)
+Phroglets (Singleton)	2.7	0.0	1.4	1.3	1.4	1.4	1.4	1.3	1.4
+
+Phage	Papez (A1)	Jawnski (AO1)	Echild (A2)	Kheth (B2)	Heathcliff (B3)	Catalina (A9)	Swish (B1)	LizLemon (B2)	Daenerys (F1)
+Phroglets (Singleton)	1.4	0.0	1.3	1.4	1.3	1.3	1.3	1.4	0.0
+
+Phage	Oaker (H1)	Alsfro (A1)	Odin (A2)	SkinnyPete (N)	Bugsy (A2)	PegLeg (M1)	RhynO (A10)	HUHilltop (P1)	Shipwreck (P1)
+Phroglets (Singleton)	0.0	1.3	1.4	0.0	1.4	0.0	1.5	0.0	0.0
+
+Phage	ZygoTaiga (C1)	Squid (B1)	Hope4ever (A1)	MarQuardt (A3)	Zombie (G1)	Gomashi (G1)	Kloppinator (B1)	Stark (E)	Phoxy (A3)
+Phroglets (Singleton)	0.0	1.3	1.4	1.4	0.0	0.0	1.3	0.0	1.4
+
+Phage	Spike509 (A3)	NoSleep (E)	Nicholasp3 (L2)	Soto (B1)	Ariel (J)	OliverWalter (B1)	Validus (K1)	ErnieJ (C1)	Estave1 (F1)
+Phroglets (Singleton)	1.4	0.0	0.0	1.3	0.0	1.3	0.0	0.0	0.0
+
+Phage	BruceB (G1)	Obama12 (A4)	RonRayGun (T)	Holli (A4)	DirtMcgirt (F1)	Llama (F1)	Squirty (F3)	Murucutumbu (K1)	Mufasa (K2)
+Phroglets (Singleton)	0.0	1.4	1.6	1.4	0.0	0.0	0.0	0.0	0.0
+
+Phage	Bernal13 (T)	QBert (C1)	HH92 (Q)	Bangla1971 (C1)	MosMoris (S)	Popcicle (A3)	SmallFry (C1)	Evanesce (Q)	Pier (C1)
+Phroglets (Singleton)	1.7	0.0	0.0	0.0	0.0	1.4	0.0	0.0	0.0
+
+Phage	Phantastic (A3)	EvilGenius (A2)	Trike (A10)	Achebe (A4)	ZoeJ (K2)	HamSlice (A4)	MichelleMyBell (N)	DTDevon (C1)	Jabbawokkie (F2)
+Phroglets (Singleton)	1.4	1.4	1.6	1.4	0.0	1.4	0.0	0.0	0.0
+
+Phage	McFly (A6)	Cabrinians (F1)	Mainiac (A3)	BellusTerra (A4)	Kampy (A4)	Inventum (F1)	Serenity (A2)	Donovan (P1)	Lamina13 (A1)
+Phroglets (Singleton)	1.3	0.0	1.4	1.4	1.4	0.0	1.3	0.0	1.3
+
+Phage	UnionJack (A5)	CaptainTrips (F1)	Kazan (A6)	Velveteen (F1)	SemperFi (A2)	Audrey (B3)	Manad (B1)	MooMoo (Singleton)	Pipsqueak (B1)
+Phroglets (Singleton)	2.8	0.0	1.3	0.0	1.4	1.3	1.3	0.0	1.3
+
+Phage	phiCAM (BD3)	Piglet (B1)	ATCC29399BT (BU)	ATCC29399BC (BU)	P105 (BU)	P104A (BU)	P101A (BU)	P100.1 (BU)	P100D (BU)
+Phroglets (Singleton)	0.0	1.3	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Phage	P100A (BU)	P14.4 (BU)	P9.1 (BU)	P1.1 (BU)	Nacho (B1)	Serpentine (B1)	RGL3 (CA)	RER2 (CA)	Papyrus (R)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	1.3	1.3	1.6	1.6	0.0
+
+Phage	KayaCho (B6)	ELB20 (BD2)	Dylan (O)	Muddy (AB)	Reprobate (B5)	Crossroads (L2)	Ovechkin (F1)	SarFire (A1)	Batiatus (F1)
+Phroglets (Singleton)	1.4	0.0	0.0	3.1	1.3	0.0	0.0	1.3	0.0
+
+Phage	MkaliMitinis3 (L2)	TG1 (BB1)	R4 (BD2)	phiHau3 (BD4)	Kykar (A1)	Halley (J)	Hegedechwinu (F1)	Cheetobro (K4)	Hades (F1)
+Phroglets (Singleton)	0.0	1.8	0.0	0.0	1.4	0.0	0.0	0.0	0.0
+
+Phage	NelitzaMV (E)	Loser (A2)	Ichabod (A1)	Scowl (A1)	Megatron (B1)	EpicPhail (A3)	Rutherferd (A1)	Saal (F1)	PhrostyMug (A1)
+Phroglets (Singleton)	1.2	1.3	1.4	1.4	1.3	1.4	1.4	0.0	1.3
+
+Phage	Misomonster (A3)	Medusa (A4)	Compostia (B3)	Expelliarmus (A8)	Gyarad (B1)	CharlieB (C1)	AnnaL29 (A2)	FriarPreacher (B1)	Kugel (A1)
+Phroglets (Singleton)	1.4	1.4	1.3	1.4	1.3	0.0	1.3	1.3	1.4
+
+Phage	Morty (B1)	Veracruz (A3)	Jsquared (A2)	TJE1 (Singleton)	TA17A (B2)	Thor (A1)	Whabigail7 (A2)	OBUpride (Q)	ChipMunk (A2)
+Phroglets (Singleton)	1.3	1.4	1.3	0.0	1.4	1.3	1.4	0.0	1.4
+
+Phage	Pepe (A1)	KingVeVeVe (B1)	Frosty24 (G1)	Sheen (A7)	Melvin (A4)	Fishburne (P1)	Winky (L2)	Gizmo (C1)	RiverMonster (E)
+Phroglets (Singleton)	1.4	1.3	0.0	1.4	1.4	0.0	0.0	0.0	0.0
+
+Phage	Morpher26 (A4)	Ogopogo (F1)	Mendokysei (T)	Phighter1804 (A4)	Daffy (B1)	Spoonbill (F1)	Joy99 (K1)	Ringer (A1)	CREW (K1)
+Phroglets (Singleton)	1.4	0.0	0.0	1.4	1.3	0.0	0.0	1.4	0.0
+
+Phage	Banjo (B1)	MacnCheese (K3)	TinaFeyge (A4)	Catdawg (O)	EmToTheThree (C1)	Ava3 (C1)	Butters (N)	Nyxis (A4)	Phrux (E)
+Phroglets (Singleton)	1.3	0.0	1.4	0.0	0.0	0.0	1.6	1.4	0.0
+
+Phage	Jebeks (P1)	SDcharge11 (B1)	Wanda (J)	Bobi (F1)	SiSi (F1)	Rebeuca (A10)	Redno2 (J)	Trouble (A1)	Krakatau (F1)
+Phroglets (Singleton)	0.0	1.3	0.0	0.0	0.0	1.4	0.0	1.4	0.0
+
+Phage	Cherrybomb426 (G1)	NuevoMundo (C1)	Dante (F1)	Crownjwl (B1)	Manatee (A1)	Cactus (E)	ICleared (A4)	MadamMonkfish (E)	Abrogate (A1)
+Phroglets (Singleton)	0.0	0.0	0.0	1.3	1.4	1.2	1.4	0.0	1.4
+
+Phage	ArcherS7 (C1)	Marcell (A1)	LittleCherry (A5)	Anglerfish (A1)	Avani (F2)	Ukulele (E)	Shrimp (C1)	Breezona (L2)	HINdeR (A7)
+Phroglets (Singleton)	0.0	1.4	1.4	1.4	0.0	0.0	0.0	0.0	1.4
+
+Phage	ShiVal (B1)	ABCat (E)	Jobu08 (A3)	Astraea (C1)	Smeadley (A8)	Breeniome (C1)	Goose (A10)	Astro (A8)	Dorothy (F1)
+Phroglets (Singleton)	1.3	1.2	1.4	0.0	1.3	0.0	1.4	1.3	0.0
+
+Phage	Norbert (A3)	Phineas (P1)	TygerBlood (A4)	Sabertooth (A4)	Xerxes (N)	Dhanush (A4)	Mundrea (A4)	Dumbo (E)	Arturo (A4)
+Phroglets (Singleton)	1.4	0.0	1.4	1.4	0.0	1.4	1.4	0.0	1.4
+
+Phage	Murphy (E)	Aeneas (A1)	Flux (A4)	BQuat (G1)	Chadwick (A5)	Job42 (F1)	ElTiger69 (A5)	RRH1 (Singleton)	Contagion (E)
+Phroglets (Singleton)	0.0	1.3	1.4	0.0	2.8	0.0	2.7	0.0	1.2
+
+Phage	Severus (A10)	Kratio (K5)	PattyP (A1)	Newman (B1)	MPlant7149 (A1)	TinyTim (C1)	GTE5 (CR1)	GRU1 (CR1)	Lesedi (A1)
+Phroglets (Singleton)	1.4	0.0	1.4	1.3	1.4	0.0	0.0	0.0	1.4
+
+Phage	DD5 (A1)	GTE7 (CS1)	Tyke (C1)	Maverick (A4)	Avrafan (G1)	Acadian (B5)	Kamiyu (B3)	LHTSCC (A4)	Ares (B2)
+Phroglets (Singleton)	1.4	0.0	0.0	1.4	0.0	1.3	1.3	1.4	1.4
+
+Phage	ThreeOh3D2 (B1)	Babsiella (I1)	Nova (D1)	Nappy (C1)	JacAttac (B1)	Hedgerow (B2)	Kikipoo (B1)	Vista (B1)	BillKnuckles (A1)
+Phroglets (Singleton)	1.3	0.0	0.0	0.0	1.3	1.4	1.3	1.3	1.4
+
+Phage	SG4 (F1)	Pio (C1)	TallGrassMM (B1)	Tiger (A5)	Archie (L2)	Sparky (AF)	LinStu (C1)	Lilac (E)	Held (B1)
+Phroglets (Singleton)	0.0	0.0	1.3	1.4	0.0	1.4	0.0	0.0	1.3
+
+Phage	Mantra (F1)	Magnito (A1)	Fushigi (A1)	GTE2 (CT)	Sebata (C1)	Doom (A1)	DLane (F1)	REQ3 (Singleton)	REQ2 (Singleton)
+Phroglets (Singleton)	0.0	1.4	1.4	1.7	0.0	1.4	0.0	0.0	0.0
+
+Phage	REQ1 (CF)	Target (A1)	Rumpelstiltskin (L2)	Bob3 (A1)	BEEST (K1)	MitKao (B1)	Morgushi (B1)	Bongo (M1)	Wile (A4)
+Phroglets (Singleton)	0.0	1.4	0.0	1.4	0.0	1.3	1.3	0.0	1.4
+
+Phage	Turbido (A2)	Alma (A9)	Henry (E)	Pixie (K3)	DaVinci (A6)	Rey (M2)	Harvey (B1)	Yoshand (B1)	JC27 (A1)
+Phroglets (Singleton)	1.4	1.3	1.2	0.0	1.3	0.0	1.3	1.3	1.3
+
+Phage	Hertubise (B1)	LittleE (J)	KSSJEB (A1)	Switzer (A1)	SirHarley (D1)	SirDuracell (E)	Hammer (A6)	BAKA (J)	Museum (A1)
+Phroglets (Singleton)	1.3	0.0	1.4	1.4	0.0	1.2	1.3	0.0	1.4
+
+Phage	Bask21 (E)	Ibhubesi (F1)	Mozy (F1)	Murdoc (B1)	MeeZee (A4)	Phaux (E)	Redi (N)	Liefie (G1)	Timshel (A7)
+Phroglets (Singleton)	1.2	0.0	0.0	1.3	1.4	1.2	0.0	0.0	1.4
+
+Phage	PAD20 (BU)	PAS50 (BU)	HelDan (A3)	Frederick (B4)	Eureka (E)	Courthouse (J)	Faith1 (L2)	Bruns (A1)	Trixie (A2)
+Phroglets (Singleton)	0.0	0.0	1.4	1.3	1.2	0.0	0.0	1.3	1.4
+
+Phage	Theia (A5)	Twister (A10)	Spartacus (F1)	Charlie (N)	Pari (A1)	TPA2 (Singleton)	TiroTheta9 (A4)	Send513 (R)	Phipps (B1)
+Phroglets (Singleton)	1.4	1.4	0.0	0.0	1.4	1.5	1.4	0.0	1.3
+
+Phage	PackMan (A9)	Vix (A3)	UPIE (L1)	RockyHorror (F1)	KLucky39 (B1)	Daisy (B3)	DotProduct (F1)	Drazdys (C1)	Anaya (K1)
+Phroglets (Singleton)	1.4	1.4	0.0	0.0	1.3	1.3	0.0	0.0	0.0
+
+Phage	Backyardigan (A4)	Zemanar (B4)	Marvin (S)	Yoshi (F2)	JHC117 (A3)	George (A5)	Vortex (B1)	Microwolf (A3)	Adephagia (K1)
+Phroglets (Singleton)	1.4	1.4	0.0	0.0	1.4	1.4	1.3	1.4	0.0
+
+Phage	ABU (B1)	BigNuz (P4)	Gladiator (A6)	Saintus (A8)	JAWS (K1)	ShiLan (F1)	Fionnbharth (K4)	Fascinus (A1)	ConceptII (A1)
+Phroglets (Singleton)	1.3	0.0	1.3	1.4	0.0	0.0	0.0	1.4	1.3
+
+Phage	DeadP (F1)	Firecracker (O)	Taj (F1)	Patience (U)	Euphoria (A1)	RidgeCB (A1)	Thora (B1)	Cuco (A5)	Perseus (A1)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	1.4	1.4	1.3	1.4	1.4
+
+Phage	Methuselah (A3)	Shauna1 (F1)	Dusk (E)	Spartan300 (B1)	Dreamboat (A1)	Dandelion (C1)	MoMoMixon (C1)	Pleione (C1)	Mutaforma13 (F1)
+Phroglets (Singleton)	1.4	0.0	1.2	1.3	1.4	0.0	0.0	0.0	0.0
+
+Phage	Stinger (B4)	Gadjet (B3)	Akoma (B3)	Rakim (E)	BPBiebs31 (A1)	Shaka (A4)	Toto (E)	Airmid (A5)	BarrelRoll (K1)
+Phroglets (Singleton)	1.4	1.3	1.3	1.2	1.3	1.4	1.2	1.4	0.0
+
+Phage	EricB (A6)	Wally (C1)	Elph10 (E)	Violet (A1)	Optimus (J)	Drago (F1)	Suffolk (B1)	GUmbie (F1)	Larva (K5)
+Phroglets (Singleton)	1.3	0.0	0.0	1.4	0.0	0.0	1.3	0.0	0.0
+
+Phage	Thibault (J)	Benedict (A5)	Oline (B1)	MrGordo (A1)	Arbiter (B2)	DocB7 (Singleton)	Poco6 (CC)	Pepy6 (CC)	Pine5 (Singleton)
+Phroglets (Singleton)	0.0	2.8	1.3	1.4	1.4	0.0	0.0	0.0	1.4
+
+Phage	Dori (AD)	Serendipity (B1)	Hamulus (F1)	OSmaximus (B1)	Jeffabunny (A6)	Blue7 (A6)	Wee (F1)	Rockstar (A3)	IsaacEli (B1)
+Phroglets (Singleton)	0.0	1.3	0.0	1.3	1.4	1.3	0.0	1.5	1.3
+
+Phage	DS6A (Singleton)	Oosterbaan (B1)	JoeDirt (L1)	ChrisnMich (B4)	Alice (C1)	Yahalom (B3)	Athena (B3)	Ghost (C1)	Angelica (K1)
+Phroglets (Singleton)	0.0	1.3	0.0	1.3	0.0	1.3	1.3	0.0	0.0
+
+Phage	Island3 (I1)	Eagle (A4)	CrimD (K1)	LeBron (L1)	Zemlya (BD1)	Sujidade (BD1)	Lika (BD1)	RedRock (A2)	Scoot17C (B1)
+Phroglets (Singleton)	1.5	1.4	0.0	0.0	0.0	0.0	0.0	1.4	1.3
+
+Phage	Fang (B1)	SkiPole (A1)	SV1 (BC1)	phiSASD1 (BJ)	UncleHowie (B1)	Pumpkin (E)	Puhltonio (B1)	Peaches (A4)	LRRHood (C1)
+Phroglets (Singleton)	1.3	1.3	0.0	2.0	1.3	0.0	1.3	1.4	0.0
+
+Phage	Hope (G1)	ET08 (C1)	Colbert (B1)	Angel (G1)	Phlyer (B3)	Ramsey (F1)	Pacc40 (F1)	Konstantine (H1)	Fruitloop (F1)
+Phroglets (Singleton)	0.0	0.0	1.3	0.0	1.3	0.0	0.0	0.0	0.0
+
+Phage	Chah (B1)	Butterscotch (D1)	Brujita (I1)	Troll4 (D1)	Gumball (D1)	Kostya (E)	Cali (C1)	Spud (C1)	Solon (A1)
+Phroglets (Singleton)	1.3	0.0	1.5	0.0	0.0	1.2	0.0	0.0	1.4
+
+Phage	ScottMcG (C1)	Rizal (C1)	Myrna (C2)	Boomer (F1)	Porky (E)	Phaedrus (B3)	Predator (H1)	Nigel (B4)	Pukovnik (A2)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	1.3	0.0	1.4	1.4
+
+Phage	KBG (A1)	Jasper (A1)	Adjutor (D1)	BPs (G1)	Giles (Q)	Min1 (Singleton)	PA6 (BU)	Tweety (F1)	Wildcat (V)
+Phroglets (Singleton)	1.4	1.4	0.0	0.0	0.0	0.0	0.0	0.0	1.2
+
+Phage	Catera (C1)	244 (E)	Qyrzula (B2)	PMC (F1)	Pipefish (B3)	PBI1 (D1)	PLot (D1)	Orion (B1)	Lockley (A1)
+Phroglets (Singleton)	0.0	0.0	1.4	0.0	1.3	0.0	0.0	1.3	1.4
+
+Phage	Llij (F1)	Halo (G1)	Cooper (B4)	Che12 (A2)	phiAsp2 (Singleton)	Bethlehem (A1)	U2 (A1)	mu16 (Singleton)	phiBT1 (BB1)
+Phroglets (Singleton)	0.0	0.0	1.3	1.3	0.0	1.4	1.4	0.0	1.7
+
+Phage	PG1 (B1)	Bxz2 (A3)	Bxz1 (C1)	Barnyard (H2)	Rosebush (B2)	Omega (J)	Corndog (O)	Cjw1 (E)	Che9d (F2)
+Phroglets (Singleton)	1.3	1.4	0.0	0.0	1.4	0.0	0.0	0.0	0.0
+
+Phage	Che9c (I2)	Che8 (F1)	Bxb1 (A1)	phiC31 (BB1)	TM4 (K2)	D29 (A2)	VWB (BA)	L5 (A2)	Ardmore (F1)
+Phroglets (Singleton)	1.4	0.0	1.4	1.8	0.0	1.5	0.0	1.4	0.0
+
+Phage	phiSAV (Singleton)	Shyg (BC4)	pZL12 (Singleton)	SPB78 (BA)	Sros11 (BA)	StrepC (BD5)
+Phroglets (Singleton)	0.0	0.0	0.0	0.0	0.0	0.0
+
